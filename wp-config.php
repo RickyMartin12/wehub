@@ -21,7 +21,7 @@
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 define('WP_CACHE', true);
-define( 'WPCACHEHOME', 'C:\xampp\htdocs\backup7.0\wp-content\plugins\wp-super-cache/' );
+define( 'WPCACHEHOME', '\var\www\html\wp-content\plugins\wp-super-cache/' );
 define( 'DB_NAME', 'globaldea' );
 
 /** MySQL database username */
@@ -39,8 +39,8 @@ define( 'DB_CHARSET', 'utf8mb4' );
 /** The Database Collate type. Don't change this if in doubt. */
 define( 'DB_COLLATE', '' );
 
-define( 'WP_HOME', 'http://localhost/backup7.0/' );
-define( 'WP_SITEURL', 'http://localhost/backup7.0/' );
+define( 'WP_HOME', 'http://44.192.89.155' );
+define( 'WP_SITEURL', 'http://44.192.89.155' );
 
 /**#@+
  * Authentication Unique Keys and Salts.
