@@ -1,0 +1,1111 @@
+# Copyright (C) 2021
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-05-30 20:39:24+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Varun Dubey\n"
+"Language-Team: Wbcom Designs\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: admin/class-bp-lock-admin.php:132 admin/class-bp-lock-admin.php:149
+#: admin/class-bp-lock-admin.php:166 admin/class-bp-lock-admin.php:183
+msgid "Settings Saved."
+msgstr ""
+
+#: admin/class-bp-lock-admin.php:195
+msgid "WB Plugins"
+msgstr ""
+
+#: admin/class-bp-lock-admin.php:196 admin/class-bp-lock-admin.php:275
+msgid "General"
+msgstr ""
+
+#: admin/class-bp-lock-admin.php:198
+msgid "BuddyPress Lock Settings"
+msgstr ""
+
+#: admin/class-bp-lock-admin.php:198 admin/class-bp-lock-feedback.php:311
+msgid "BP Private Community"
+msgstr ""
+
+#: admin/class-bp-lock-admin.php:213
+msgid "BuddyPress Private Community Settings"
+msgstr ""
+
+#: admin/class-bp-lock-admin.php:272
+msgid "Welcome"
+msgstr ""
+
+#: admin/class-bp-lock-admin.php:302
+msgid "BP Components"
+msgstr ""
+
+#: admin/class-bp-lock-admin.php:346
+msgid "Pages"
+msgstr ""
+
+#: admin/class-bp-lock-admin.php:365
+#: admin/wbcom/templates/wbcom-support-page.php:5
+#: admin/wbcom/wbcom-admin-settings.php:568
+#: admin/wbcom/wbcom-admin-settings.php:569
+#: admin/wbcom/wbcom-admin-settings.php:662 bp-lock.php:127
+msgid "Support"
+msgstr ""
+
+#: admin/class-bp-lock-feedback.php:88
+#. translators: Number of years
+msgid "%s years"
+msgstr ""
+
+#: admin/class-bp-lock-feedback.php:90
+msgid "a year"
+msgstr ""
+
+#: admin/class-bp-lock-feedback.php:97
+#. translators: Number of weeks
+msgid "%s weeks"
+msgstr ""
+
+#: admin/class-bp-lock-feedback.php:99
+msgid "a week"
+msgstr ""
+
+#: admin/class-bp-lock-feedback.php:106
+#. translators: Number of days
+msgid "%s days"
+msgstr ""
+
+#: admin/class-bp-lock-feedback.php:108
+msgid "a day"
+msgstr ""
+
+#: admin/class-bp-lock-feedback.php:115
+#. translators: Number of hours
+msgid "%s hours"
+msgstr ""
+
+#: admin/class-bp-lock-feedback.php:117
+msgid "an hour"
+msgstr ""
+
+#: admin/class-bp-lock-feedback.php:124
+#. translators: Number of minutes
+msgid "%s minutes"
+msgstr ""
+
+#: admin/class-bp-lock-feedback.php:126
+msgid "a minute"
+msgstr ""
+
+#: admin/class-bp-lock-feedback.php:133
+#. translators: Number of seconds
+msgid "%s seconds"
+msgstr ""
+
+#: admin/class-bp-lock-feedback.php:135
+msgid "a second"
+msgstr ""
+
+#: admin/class-bp-lock-feedback.php:271
+#: admin/wbcom/wbcom-admin-settings.php:291 bp-lock.php:156
+msgid "BuddyPress Lock"
+msgstr ""
+
+#: admin/class-bp-lock-feedback.php:274
+msgid "Are you enjoying BuddyPress Lock?"
+msgstr ""
+
+#: admin/class-bp-lock-feedback.php:277
+#. translators: %1$s is replaced with $this->name
+msgid ""
+"We hope you're enjoying %1$s! Could you please do us a BIG favor and give "
+"it a 5-star rating on WordPress to help us spread the word and boost our "
+"motivation?"
+msgstr ""
+
+#: admin/class-bp-lock-feedback.php:281
+msgid "Leave a Review"
+msgstr ""
+
+#: admin/class-bp-lock-feedback.php:282
+msgid "No thanks / I already have"
+msgstr ""
+
+#: admin/includes/bplock-bp-components-settings.php:7
+msgid "Members"
+msgstr ""
+
+#: admin/includes/bplock-bp-components-settings.php:8
+msgid "Groups"
+msgstr ""
+
+#: admin/includes/bplock-bp-components-settings.php:9
+msgid "Site Wide Activity"
+msgstr ""
+
+#: admin/includes/bplock-bp-components-settings.php:15
+msgid "Blogs (Sites)"
+msgstr ""
+
+#: admin/includes/bplock-bp-components-settings.php:25
+msgid "BuddyPress Components Settings"
+msgstr ""
+
+#: admin/includes/bplock-bp-components-settings.php:31
+msgid "BuddyPress Components"
+msgstr ""
+
+#: admin/includes/bplock-bp-components-settings.php:41
+msgid ""
+"Select the buddypress components that you wish to restrict access for "
+"logged out users."
+msgstr ""
+
+#: admin/includes/bplock-cpt-settings.php:22
+msgid "Custom Post Types Lock Settings"
+msgstr ""
+
+#: admin/includes/bplock-cpt-settings.php:28
+msgid "Custom Post Types"
+msgstr ""
+
+#: admin/includes/bplock-cpt-settings.php:38
+msgid ""
+"Select the custom post types that you wish to restrict access for logged "
+"out users."
+msgstr ""
+
+#: admin/includes/bplock-general-settings.php:38
+msgid "General Settings"
+msgstr ""
+
+#: admin/includes/bplock-general-settings.php:45
+#: admin/includes/bplock-general-settings.php:56
+msgid "Lock BuddyPress Components"
+msgstr ""
+
+#: admin/includes/bplock-general-settings.php:51
+msgid ""
+"Switch above option on, if you want to restrict access for BuddyPress "
+"Components."
+msgstr ""
+
+#: admin/includes/bplock-general-settings.php:62
+msgid ""
+"Switch above option on, if you want to to restrict access BuddyPress "
+"Components."
+msgstr ""
+
+#: admin/includes/bplock-general-settings.php:81
+msgid "Lock Pages"
+msgstr ""
+
+#: admin/includes/bplock-general-settings.php:87
+msgid "Switch above option on, if you want to restrict access for WordPress Pages."
+msgstr ""
+
+#: admin/includes/bplock-general-settings.php:93
+msgid "Login Registration Form"
+msgstr ""
+
+#: admin/includes/bplock-general-settings.php:96
+msgid "Use plugin login/registration form"
+msgstr ""
+
+#: admin/includes/bplock-general-settings.php:98
+msgid "Custom Form"
+msgstr ""
+
+#: admin/includes/bplock-general-settings.php:102
+msgid "Use Plugin's Template"
+msgstr ""
+
+#: admin/includes/bplock-general-settings.php:104
+msgid "3rd Party Plugin Shortcode"
+msgstr ""
+
+#: admin/includes/bplock-general-settings.php:106
+msgid "Redirect to page"
+msgstr ""
+
+#: admin/includes/bplock-general-settings.php:112
+msgid "Custom form content"
+msgstr ""
+
+#: admin/includes/bplock-general-settings.php:115
+msgid "Please insert a login/registration form shortcode."
+msgstr ""
+
+#: admin/includes/bplock-general-settings.php:129
+msgid "Select Page to redirect"
+msgstr ""
+
+#: admin/includes/bplock-general-settings.php:139
+msgid ""
+"Select the pages you wish to redirect the restricted user roles. These "
+"pages will be locked for logged out users."
+msgstr ""
+
+#: admin/includes/bplock-general-settings.php:154
+msgid "Custom restriction message"
+msgstr ""
+
+#: admin/includes/bplock-general-settings.php:164
+#: public/templates/bplock-locked-content-template.php:28
+msgid ""
+"Hey Member! Thanks for checking this page out -- however, it’s restricted "
+"to logged members only. If you’d like to access it, please login to the "
+"website."
+msgstr ""
+
+#: admin/includes/bplock-general-settings.php:168
+msgid "Above message will be displayed on the protected pages."
+msgstr ""
+
+#: admin/includes/bplock-pages-settings.php:30
+msgid "Pages Lock Settings"
+msgstr ""
+
+#: admin/includes/bplock-pages-settings.php:36
+msgid "WordPress Pages"
+msgstr ""
+
+#: admin/includes/bplock-pages-settings.php:39
+msgid "Select All"
+msgstr ""
+
+#: admin/includes/bplock-pages-settings.php:40
+msgid "Unselect All"
+msgstr ""
+
+#: admin/includes/bplock-pages-settings.php:50
+msgid "Select the WordPress pages that you wish to get locked for loggedout users."
+msgstr ""
+
+#: admin/includes/bplock-support.php:8
+msgid "Have some questions?"
+msgstr ""
+
+#: admin/includes/bplock-support.php:13
+msgid "Is this plugin requires another plugin?"
+msgstr ""
+
+#: admin/includes/bplock-support.php:16
+msgid ""
+"This plugin does not require any specific plugin. Although this plugin "
+"supports BuddyPress, if active."
+msgstr ""
+
+#: admin/includes/bplock-support.php:24
+msgid "What does this plugin work?"
+msgstr ""
+
+#: admin/includes/bplock-support.php:26
+msgid ""
+"This plugin allows the site administrator to secure components of "
+"BuddyPress (if active) and WordPress pages from non-logged in users."
+msgstr ""
+
+#: admin/includes/bplock-support.php:27
+msgid ""
+"You can lockdown WordPress Pages and any BuddyPress Component and can have "
+"some content displayed like if you want to show any shortcode content or "
+"any simple message."
+msgstr ""
+
+#: admin/includes/bplock-support.php:34
+msgid ""
+"Why BuddyPress Components setting tab and Page setting tab not displayed in "
+"plugin settings after plugin activate?"
+msgstr ""
+
+#: admin/includes/bplock-support.php:36
+msgid ""
+"These setting tabs will be displayed after enable Lock option in general "
+"tab in plugin setting page."
+msgstr ""
+
+#: admin/includes/bplock-support.php:43
+msgid "If user locked BuddyPress 'groups' component, what will be happen?"
+msgstr ""
+
+#: admin/includes/bplock-support.php:45
+msgid ""
+"If the user will lock BuddyPress 'groups' component, then groups page will "
+"not display groups list and restrict access on the single group page too "
+"and show content which will be set by admin in Locked Content."
+msgstr ""
+
+#: admin/includes/bplock-support.php:52
+msgid "If user locked BuddyPress 'members' component, what will be happen?"
+msgstr ""
+
+#: admin/includes/bplock-support.php:54
+msgid ""
+"If the user will lock BuddyPress 'members' component, then groups page will "
+"not display members list and restrict access on the single member page too "
+"and show content which will be set by admin in 'Locked Content'."
+msgstr ""
+
+#: admin/includes/bplock-support.php:61
+msgid "In any archive page locked page content will display or not?"
+msgstr ""
+
+#: admin/includes/bplock-support.php:64
+msgid "No, archive page will not be displayed any content of the locked page."
+msgstr ""
+
+#: admin/includes/bplock-support.php:82
+msgid "Can we override the template files?"
+msgstr ""
+
+#: admin/includes/bplock-support.php:85
+msgid "Yes, the path to override is theme or child-theme/bp-lock/thempale.php "
+msgstr ""
+
+#: admin/includes/bplock-support.php:93
+msgid ""
+"When we search anything related to locked component and page, it's content "
+"will be displayed or not?"
+msgstr ""
+
+#: admin/includes/bplock-support.php:96
+msgid ""
+"No, anything will not be displayed in search content if related page or "
+"component already blocked"
+msgstr ""
+
+#: admin/includes/bplock-support.php:104
+msgid "How to contact support?"
+msgstr ""
+
+#: admin/includes/bplock-support.php:106
+msgid "Please submit details at "
+msgstr ""
+
+#: admin/includes/bplock-support.php:106
+msgid "Wbcom Designs"
+msgstr ""
+
+#: admin/includes/bplock-support.php:106
+msgid "for any query related to the plugin and BuddyPress. "
+msgstr ""
+
+#: admin/includes/bplock-support.php:111
+msgid ""
+"To get more functionality purchase the pro version. You can purchase pro "
+"version from"
+msgstr ""
+
+#: admin/includes/bplock-support.php:111
+msgid "Here"
+msgstr ""
+
+#: admin/includes/bplock-welcome-page.php:15
+msgid "Wbcom Designs - Private Community for BuddyPress"
+msgstr ""
+
+#: admin/includes/bplock-welcome-page.php:16
+msgid ""
+"BuddyPress Lock basically allows the administrator to lock the certain "
+"parts of their site."
+msgstr ""
+
+#: admin/includes/bplock-welcome-page.php:27
+msgid "Help &amp; Support Resources"
+msgstr ""
+
+#: admin/includes/bplock-welcome-page.php:28
+msgid ""
+"Here are all the resources you may need to get help from us. Documentation "
+"is usually the best place to start. Should you require help anytime, our "
+"customer care team is available to assist you at the support center."
+msgstr ""
+
+#: admin/includes/bplock-welcome-page.php:34
+msgid "Documentation"
+msgstr ""
+
+#: admin/includes/bplock-welcome-page.php:35
+msgid ""
+"We have prepared an extensive guide on Private Community for BuddyPress to "
+"learn all aspects of the plugin. You will find most of your answers here."
+msgstr ""
+
+#: admin/includes/bplock-welcome-page.php:36
+msgid "Read Documentation"
+msgstr ""
+
+#: admin/includes/bplock-welcome-page.php:40
+msgid "Support Center"
+msgstr ""
+
+#: admin/includes/bplock-welcome-page.php:41
+msgid ""
+"We strive to offer the best customer care via our support center. Once your "
+"theme is activated, you can ask us for help anytime."
+msgstr ""
+
+#: admin/includes/bplock-welcome-page.php:42
+msgid "Get Support"
+msgstr ""
+
+#: admin/includes/bplock-welcome-page.php:46
+msgid "Got Feedback?"
+msgstr ""
+
+#: admin/includes/bplock-welcome-page.php:47
+msgid ""
+"We want to hear about your experience with the plugin. We would also love "
+"to hear any suggestions you may for future updates."
+msgstr ""
+
+#: admin/includes/bplock-welcome-page.php:48
+msgid "Send Feedback"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-license-page.php:5
+msgid "Plugin License Settings"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-license-page.php:10
+#: admin/wbcom/templates/wbcom-license-page.php:22
+msgid "Product"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-license-page.php:11
+#: admin/wbcom/templates/wbcom-license-page.php:23
+msgid "Version"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-license-page.php:12
+#: admin/wbcom/templates/wbcom-license-page.php:24
+msgid "Key"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-license-page.php:13
+#: admin/wbcom/templates/wbcom-license-page.php:25
+msgid "Status"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-license-page.php:14
+#: admin/wbcom/templates/wbcom-license-page.php:26
+msgid "Action"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:10
+msgid "Paid Addons"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:28
+#: admin/wbcom/templates/wbcom-themes-page.php:118
+#: admin/wbcom/templates/wbcom-themes-page.php:139
+msgid "View"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:37
+msgid "Free Addons"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:43
+msgid "Install"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:47
+#: admin/wbcom/wbcom-admin-settings.php:502
+msgid "Activate"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-plugins-page.php:51
+#: admin/wbcom/wbcom-admin-settings.php:503
+msgid "Deactivate"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-support-page.php:7
+msgid "Having any question or issue ?"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-support-page.php:9
+msgid ""
+"Our team is here to help you out at anytime. If you have any idea about how "
+"we could improve. You can share access to your site on our helpdesk if it "
+"can help getting faster. There are two ways to in touch with us :"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-support-page.php:21
+msgid "Tickets Support"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-support-page.php:22
+msgid ""
+"Open a ticket on our helpdesk, we don't guarantee a fast response but "
+"within a week. Except if you've purchased one of our product we'll reply "
+"within 24 hours."
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-support-page.php:26
+msgid "Open a ticket"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-support-page.php:41
+#: admin/wbcom/templates/wbcom-support-page.php:46
+msgid "Contact Us"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-support-page.php:42
+msgid ""
+"Create a new thread on our plugin page, participation is open to anyone "
+"from all around the world. We'll be there to help as well but can't "
+"guarantee any delay."
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:13
+msgid "Reign Theme"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:15
+msgid "Multiple Member Directory Layout"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:16
+msgid "Multiple Member Header Layout"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:17
+msgid "Multiple Group Directory Layout"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:18
+msgid "Multiple Group Header Layout"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:19
+msgid "BuddyPress Customization Options"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:20
+msgid "BuddyPress Extra Widgets"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:21
+msgid "Inbuilt Social Profile Module"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:24
+#: admin/wbcom/templates/wbcom-themes-page.php:49
+#: admin/wbcom/templates/wbcom-themes-page.php:72
+#: admin/wbcom/templates/wbcom-themes-page.php:94
+msgid "Purchase"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:25
+#: admin/wbcom/templates/wbcom-themes-page.php:50
+#: admin/wbcom/templates/wbcom-themes-page.php:73
+#: admin/wbcom/templates/wbcom-themes-page.php:95
+msgid "Preview"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:38
+msgid "LearnMate Solution"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:40
+msgid "Add Review to your course"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:41
+msgid "Course Coming Soon"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:42
+#: admin/wbcom/templates/wbcom-themes-page.php:68
+msgid "Grid And List Layout"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:43
+msgid "Learndash/LifterLMS Extra Widgets"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:44
+msgid "Unparalleled Course Layout"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:45
+msgid "Awesome Learndash/LifterLMS Pages"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:46
+msgid "Distraction Free Reading"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:63
+msgid "StoreMate Solution"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:65
+msgid "Dokan Extra Widgets"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:66
+msgid "Unique Single Product Page Customization"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:67
+msgid "Awesome WooCommerce Pages"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:69
+msgid "Automated Mega Menu Support"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:86
+msgid "Jobmate Theme"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:88
+msgid "Simple live searching and filtering"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:89
+msgid "Unique Job listing Page"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:90
+msgid "Awesome Resume list Page"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:91
+msgid "Outstanding all job maanger pagesLayout"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:108
+msgid "BuddyX Theme"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:110
+msgid "Responsive BuddyPress Theme"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:111
+#: admin/wbcom/templates/wbcom-themes-page.php:134
+msgid "Site Ready In One-Click"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:112
+msgid "Members and Groups Layout"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:113
+msgid "WooCommerce Ready"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:114
+msgid "Supported Muitiple Plugins"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:115
+#: admin/wbcom/templates/wbcom-themes-page.php:136
+msgid "Suitable for All Devices"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:131
+msgid "KnowX Theme"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:133
+msgid "Free WordPress Theme"
+msgstr ""
+
+#: admin/wbcom/templates/wbcom-themes-page.php:135
+msgid "Create Knowledge base"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:187
+msgid "Custom Font Uploader"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:189
+msgid ""
+"It also allows you to upload your own custom font to your site and use them "
+"using custom css."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:195
+msgid "BuddyPress Activity Filter"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:197
+msgid "Admin can set default and customised activities to be listed on front-end."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:203
+msgid "BuddyPress Activity Social Share"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:205
+msgid ""
+"This plugin allows anyone easily share BuddyPress Activites on major social "
+"media (Facebook, Twitter, Google+, Linkedin )."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:211
+msgid "BuddyPress Create Group Type"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:213
+msgid "It will help to create group type for BuddyPress Groups."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:219
+msgid "BuddyPress Member Reviews"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:221
+msgid ""
+"This plugin allows only site members to add reviews to the buddypress "
+"members on the site and even rate the member’s profile out of 5 points with "
+"multiple review criteria."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:227
+msgid "BuddyPress Group Reviews"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:229
+msgid ""
+"This plugin allows the BuddyPress Members to give reviews to the BuddyPress "
+"groups on the site. The review form allows the users to give text review, "
+"even rate the group on the basis of multiple criterias."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:235
+msgid "BuddyPress Favorite Notification"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:237
+msgid ""
+"BuddyPress Favorite Notification adds a notification for BuddyPress "
+"activity."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:243
+msgid "Custom Email Options"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:245
+msgid "Override default email options of Worpdress."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:251
+msgid "BuddyPress Checkins"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:253
+msgid ""
+"This plugin allows BuddyPress members to share their location when they are "
+"posting activities, you can add places where you visited, nearby locations "
+"based on google places."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:259
+msgid "BuddyPress Job Manager"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:261
+msgid ""
+"Incorporates BuddyPress with the WP Job Manager plugin by creating specific "
+"tabs in employer’s and candidate’s profiles."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:267
+msgid "BuddyPress user ToDo List"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:269
+msgid ""
+"This plugin allows you to create your personal task list with timestamp. "
+"You can mark them complete when you are done with them. It will also send "
+"reminder when you have any overdue task."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:275
+msgid "Shortcodes for BuddyPress"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:277
+msgid ""
+"This plugin will add an extended feature to the big name “BuddyPress” that "
+"will generate Shortcode for Listing Activity Streams , Members and Groups "
+"on any post/page in website."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:283
+msgid "Woo Open Graph"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:285
+msgid ""
+"This plugin will add an extended feature to the big name “WooCommerce” that "
+"will adds well executed and accurate Open Graph Meta Tags to your site with "
+"title,description and WooCommerce featured image."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:293
+msgid ""
+"This plugin allows the administrator to lock the certain parts of their "
+"site. It help to create private BuddyPress community by locking certain "
+"BuddyPress Components, WordPress Pages, Custom Post Types for public view "
+"without using any membership plugin."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:299
+msgid "Woo Audio Preview"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:301
+msgid ""
+"This plugin Allows playing the audio files in sample mode to prevent "
+"unauthorized downloading of the audio files. It helps to display sample "
+"files at single product page."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:307
+msgid "WordPress System Log"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:309
+msgid ""
+"This plugin helps administrators of the site see their environment on which "
+"the site is currently running that includes WordPress environment, tha "
+"database it requires, Server Environment and the plugins installed and "
+"activated on the site."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:315
+msgid "BP Post From Anywhere"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:317
+msgid ""
+"This plugin will generate shortcode and widgets for post updates section "
+"for activities so you can post update from anywhere, it might be sidebar, "
+"some page or any template file."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:323
+msgid "Woo Document Preview"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:325
+msgid ""
+"This will allow you to add document preview at single product page. Which "
+"helps to offer more better idea when you are selling ebooks, pdf or some "
+"documents."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:331
+msgid "WordPress Media Category"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:333
+#: admin/wbcom/wbcom-admin-settings.php:349
+msgid ""
+"This plugin helps administrators of the site categorize their wordpress "
+"media."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:339
+msgid "Woo Price Quotes"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:341
+msgid ""
+"This plugin helps in quoting the products that admin wishes to hide its "
+"purchasing details."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:347
+msgid "EDD Service Extended"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:355
+msgid "WB Ads Rotator with Split Test"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:357
+msgid ""
+"This plugin is designed for the SPLIT TESTING, you can check performance of "
+"your ads layout and on the basis of them you can select one of them for "
+"your regular use."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:375
+msgid "BuddyPress Moderation Pro"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:376
+msgid ""
+"BuddyPress Community Moderation offers a solution for site owners to keep "
+"their communities straight. With community policing strategy, members of "
+"the community have an option for moderation sitewide by attaching flags to "
+"content created within the various components."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:381
+msgid "BuddyPress Polls"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:382
+msgid ""
+"Use BuddyPress Polls plugin to create polls inside the activity, let your "
+"user response to your polls. Members can create pools like activities, "
+"easily votes on them."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:387
+msgid "BuddyPress Resume Manager"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:388
+msgid ""
+"BuddyPress Resume Manager adds a separate BuddyPress Resume menu at a "
+"user’s BuddyPress Profile Page to display individual member resume. We have "
+"added predefined fields for the resumes and site admin and enable and "
+"disable them."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:393
+msgid "BuddyPress Profanity"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:394
+msgid ""
+"Use BuddyPress Profanity plugin to censor content in your community! Easily "
+"Censor all the unwanted words in activities, private messages contents by "
+"specifying a list of keywords to be filtered."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:399
+msgid "BuddyPress Private Community Pro"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:400
+msgid ""
+"This plugin offers a lockdown for BuddyPress Component and will ask users "
+"to log in go further to check profile or any other protected details."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:405
+msgid "BuddyPress Profile Pro"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:406
+msgid ""
+"This plugin gives you the power to extend BuddyPress Profiles with repeater "
+"fields and groups. You can easily add multiple field groups and display "
+"them at member’s profile."
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:552
+#: admin/wbcom/wbcom-admin-settings.php:553
+#: admin/wbcom/wbcom-admin-settings.php:650
+msgid "Our Plugins"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:560
+#: admin/wbcom/wbcom-admin-settings.php:561
+#: admin/wbcom/wbcom-admin-settings.php:656
+msgid "Our Themes"
+msgstr ""
+
+#: admin/wbcom/wbcom-admin-settings.php:644 bp-lock.php:126
+msgid "Settings"
+msgstr ""
+
+#: bp-lock.php:127
+msgid "Go for any custom development."
+msgstr ""
+
+#: bp-lock.php:157
+msgid "BuddyPress"
+msgstr ""
+
+#: bp-lock.php:159
+msgid "%1$s is ineffective now as it requires %2$s to be installed and active."
+msgstr ""
+
+#: public/class-bp-lock-public.php:319
+#: public/templates/bplock-login-form.php:14
+#: public/templates/bplock-register-form.php:16
+msgid "Login"
+msgstr ""
+
+#: public/class-bp-lock-public.php:322
+#: public/templates/bplock-login-form.php:17
+#: public/templates/bplock-register-form.php:15
+msgid "Register"
+msgstr ""
+
+#: public/class-bp-lock-public.php:368
+msgid "Login successful! Redirecting..."
+msgstr ""
+
+#: public/class-bp-lock-public.php:391
+msgid "User account already exists with the requested email!"
+msgstr ""
+
+#: public/class-bp-lock-public.php:406
+msgid "User registered! Logging in..."
+msgstr ""
+
+#: public/templates/bplock-locked-content-template.php:7
+msgid "Logged in members only!"
+msgstr ""
+
+#: public/templates/bplock-login-form.php:9
+msgid "Either of the detail is empty!"
+msgstr ""
+
+#: public/templates/bplock-login-form.php:12
+#: public/templates/bplock-register-form.php:13
+msgid "Username"
+msgstr ""
+
+#: public/templates/bplock-login-form.php:13
+#: public/templates/bplock-register-form.php:14
+msgid "Password"
+msgstr ""
+
+#: public/templates/bplock-login-form.php:17
+msgid "New to this site?"
+msgstr ""
+
+#: public/templates/bplock-login-form.php:17
+#: public/templates/bplock-register-form.php:16
+msgid "here!"
+msgstr ""
+
+#: public/templates/bplock-register-form.php:12
+msgid "Email"
+msgstr ""
+
+#: public/templates/bplock-register-form.php:16
+msgid "Already a member?"
+msgstr ""

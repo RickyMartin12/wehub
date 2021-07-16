@@ -1,0 +1,242 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Advance Portfolio Grid\n"
+"POT-Creation-Date: 2019-01-31 02:06+0600\n"
+"PO-Revision-Date: 2019-01-31 02:06+0600\n"
+"Last-Translator: wpbean <imranmodel35@gmail.com>\n"
+"Language-Team: WpBean <imranmodel35@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html__;esc_html_x\n"
+"X-Poedit-SearchPath-0: admin\n"
+
+#: admin/wpb-class.settings-api.php:316
+msgid "Browse"
+msgstr ""
+
+#: admin/wpb-fp-admin.php:20
+msgid "Portfolio Featured Image"
+msgstr ""
+
+#: admin/wpb-fp-admin.php:21
+msgid "Date"
+msgstr ""
+
+#: admin/wpb-fp-admin.php:38
+msgid "This portfolio has no featured image"
+msgstr ""
+
+#: admin/wpb-settings-config.php:41 admin/wpb-settings-config.php:42
+msgid "Portfolio Settings"
+msgstr ""
+
+#: admin/wpb-settings-config.php:54
+msgid "General Settings"
+msgstr ""
+
+#: admin/wpb-settings-config.php:58
+msgid "Advanced Settings"
+msgstr ""
+
+#: admin/wpb-settings-config.php:62
+msgid "Style Settings"
+msgstr ""
+
+#: admin/wpb-settings-config.php:79
+msgid "Column"
+msgstr ""
+
+#: admin/wpb-settings-config.php:80
+msgid "Number of portfolio column."
+msgstr ""
+
+#: admin/wpb-settings-config.php:84
+msgid "4 Column"
+msgstr ""
+
+#: admin/wpb-settings-config.php:85
+msgid "3 Column"
+msgstr ""
+
+#: admin/wpb-settings-config.php:86
+msgid "2 Column"
+msgstr ""
+
+#: admin/wpb-settings-config.php:91
+msgid "Number of post"
+msgstr ""
+
+#: admin/wpb-settings-config.php:92
+msgid "Number of post to show. Default -1, means show all."
+msgstr ""
+
+#: admin/wpb-settings-config.php:100
+msgid "Post Type"
+msgstr ""
+
+#: admin/wpb-settings-config.php:101
+msgid ""
+"You can select your own custom post type. Default: Our portfolio post type "
+"that come with plugin."
+msgstr ""
+
+#: admin/wpb-settings-config.php:108
+msgid "Taxonomy"
+msgstr ""
+
+#: admin/wpb-settings-config.php:109
+msgid ""
+"You can select your own custom taxonomy ( taxonomy means custom category ).  "
+"Default: Our portfolio category that come with plugin."
+msgstr ""
+
+#: admin/wpb-settings-config.php:116
+msgid "Exclude Taxonomies"
+msgstr ""
+
+#: admin/wpb-settings-config.php:117
+msgid "You can exclude selected Taxonomies form portfolio."
+msgstr ""
+
+#: admin/wpb-settings-config.php:123
+msgid "Image Width"
+msgstr ""
+
+#: admin/wpb-settings-config.php:124
+msgid "Portfolio thumbnail width in Px. Minimum 200. Default 680"
+msgstr ""
+
+#: admin/wpb-settings-config.php:131
+msgid "Image height"
+msgstr ""
+
+#: admin/wpb-settings-config.php:132
+msgid "Portfolio thumbnail height in Px. Minimum 200. Default 680"
+msgstr ""
+
+#: admin/wpb-settings-config.php:139
+msgid "Portfolio overlay"
+msgstr ""
+
+#: admin/wpb-settings-config.php:140
+msgid "Portfolio overlay on mouse hover. Default: Show."
+msgstr ""
+
+#: admin/wpb-settings-config.php:144 admin/wpb-settings-config.php:155
+msgid "Show"
+msgstr ""
+
+#: admin/wpb-settings-config.php:145 admin/wpb-settings-config.php:156
+msgid "Hide"
+msgstr ""
+
+#: admin/wpb-settings-config.php:150
+msgid "Portfolio overlay Links"
+msgstr ""
+
+#: admin/wpb-settings-config.php:151
+msgid "Portfolio overlay on mouse hover showing two links. Default: Show."
+msgstr ""
+
+#: admin/wpb-settings-config.php:161
+msgid "View Portfolio Button Text"
+msgstr ""
+
+#: admin/wpb-settings-config.php:162
+msgid ""
+"View portfolio button that allow you to link your external site or anything "
+"else. You can change that button text."
+msgstr ""
+
+#: admin/wpb-settings-config.php:164
+msgid "View Portfolio"
+msgstr ""
+
+#: admin/wpb-settings-config.php:170
+msgid "Primary color"
+msgstr ""
+
+#: admin/wpb-settings-config.php:171
+msgid "Select your portfolio primary color. Default: #21cdec"
+msgstr ""
+
+#: admin/wpb-settings-config.php:177
+msgid "Quick View Effect."
+msgstr ""
+
+#: admin/wpb-settings-config.php:178
+msgid "Select your Quick View Effect popup effect."
+msgstr ""
+
+#: admin/wpb-settings-config.php:182
+msgid "Zoom effect"
+msgstr ""
+
+#: admin/wpb-settings-config.php:183
+msgid "Newspaper effect"
+msgstr ""
+
+#: admin/wpb-settings-config.php:184
+msgid "Move-horizontal effect"
+msgstr ""
+
+#: admin/wpb-settings-config.php:185
+msgid "Move-from-top effect"
+msgstr ""
+
+#: admin/wpb-settings-config.php:186
+msgid "3d unfold"
+msgstr ""
+
+#: admin/wpb-settings-config.php:187
+msgid "Zoom-out effect"
+msgstr ""
+
+#: admin/wpb-settings-config.php:192
+msgid "Hover Effect."
+msgstr ""
+
+#: admin/wpb-settings-config.php:193
+msgid "Select an effect for mouse hover on portfolio."
+msgstr ""
+
+#: admin/wpb-settings-config.php:197
+msgid "Roxy"
+msgstr ""
+
+#: admin/wpb-settings-config.php:198
+msgid "Bubba"
+msgstr ""
+
+#: admin/wpb-settings-config.php:199
+msgid "Marley"
+msgstr ""
+
+#: admin/wpb-settings-config.php:200
+msgid "Oscar"
+msgstr ""
+
+#: admin/wpb-settings-config.php:201
+msgid "Layla"
+msgstr ""
+
+#: admin/wpb-settings-config.php:206
+msgid "Portfolio title font size."
+msgstr ""
+
+#: admin/wpb-settings-config.php:207
+msgid "Font size for portfolio title. Default 20px."
+msgstr ""
+
+#: admin/wpb-settings-config.php:213
+msgid "Portfolio Custom CSS"
+msgstr ""
+
+#: admin/wpb-settings-config.php:214
+msgid "You can write you own custom css code here."
+msgstr ""

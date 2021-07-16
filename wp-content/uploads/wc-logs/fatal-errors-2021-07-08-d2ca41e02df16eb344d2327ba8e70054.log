@@ -1,0 +1,33 @@
+2021-07-08T09:32:53+00:00 CRITICAL Uncaught Error: Call to undefined function bp_get_option() in /home/wehubpt/public_html/wp-content/plugins/buddyboss-platform-pro/class-bb-platform-pro.php:119
+Stack trace:
+#0 /home/wehubpt/public_html/wp-content/plugins/buddyboss-platform-pro/class-bb-platform-pro.php(80): BB_Platform_Pro->setup_globals()
+#1 /home/wehubpt/public_html/wp-content/plugins/buddyboss-platform-pro/class-bb-platform-pro.php(53): BB_Platform_Pro->__construct()
+#2 /home/wehubpt/public_html/wp-content/plugins/buddyboss-platform-pro/buddyboss-platform-pro.php(36): BB_Platform_Pro::instance()
+#3 /home/wehubpt/public_html/wp-content/plugins/buddyboss-platform-pro/buddyboss-platform-pro.php(70): bb_platform_pro()
+#4 /home/wehubpt/public_html/wp-includes/class-wp-hook.php(292): bb_platform_pro_init('')
+#5 /home/wehubpt/public_html/wp-includes/class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#6 /home/wehubpt/public_html/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#7 /home/wehubpt/public_html/wp-settings.php(423): do_ac em /home/wehubpt/public_html/wp-content/plugins/buddyboss-platform-pro/class-bb-platform-pro.php na linha 119
+
+2021-07-08T09:33:28+00:00 CRITICAL Uncaught Error: Call to undefined function bp_get_option() in /home/wehubpt/public_html/wp-content/plugins/buddyboss-platform-pro/class-bb-platform-pro.php:119
+Stack trace:
+#0 /home/wehubpt/public_html/wp-content/plugins/buddyboss-platform-pro/class-bb-platform-pro.php(80): BB_Platform_Pro->setup_globals()
+#1 /home/wehubpt/public_html/wp-content/plugins/buddyboss-platform-pro/class-bb-platform-pro.php(53): BB_Platform_Pro->__construct()
+#2 /home/wehubpt/public_html/wp-content/plugins/buddyboss-platform-pro/buddyboss-platform-pro.php(36): BB_Platform_Pro::instance()
+#3 /home/wehubpt/public_html/wp-content/plugins/buddyboss-platform-pro/buddyboss-platform-pro.php(70): bb_platform_pro()
+#4 /home/wehubpt/public_html/wp-includes/class-wp-hook.php(292): bb_platform_pro_init('')
+#5 /home/wehubpt/public_html/wp-includes/class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#6 /home/wehubpt/public_html/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#7 /home/wehubpt/public_html/wp-settings.php(423): do_ac em /home/wehubpt/public_html/wp-content/plugins/buddyboss-platform-pro/class-bb-platform-pro.php na linha 119
+
+2021-07-08T11:21:20+00:00 CRITICAL Uncaught Error: Call to undefined function bp_get_option() in /home/wehubpt/public_html/wp-content/plugins/buddyboss-platform-pro/class-bb-platform-pro.php:119
+Stack trace:
+#0 /home/wehubpt/public_html/wp-content/plugins/buddyboss-platform-pro/class-bb-platform-pro.php(80): BB_Platform_Pro->setup_globals()
+#1 /home/wehubpt/public_html/wp-content/plugins/buddyboss-platform-pro/class-bb-platform-pro.php(53): BB_Platform_Pro->__construct()
+#2 /home/wehubpt/public_html/wp-content/plugins/buddyboss-platform-pro/buddyboss-platform-pro.php(36): BB_Platform_Pro::instance()
+#3 /home/wehubpt/public_html/wp-content/plugins/buddyboss-platform-pro/buddyboss-platform-pro.php(70): bb_platform_pro()
+#4 /home/wehubpt/public_html/wp-includes/class-wp-hook.php(292): bb_platform_pro_init('')
+#5 /home/wehubpt/public_html/wp-includes/class-wp-hook.php(316): WP_Hook->apply_filters(NULL, Array)
+#6 /home/wehubpt/public_html/wp-includes/plugin.php(484): WP_Hook->do_action(Array)
+#7 /home/wehubpt/public_html/wp-settings.php(423): do_ac em /home/wehubpt/public_html/wp-content/plugins/buddyboss-platform-pro/class-bb-platform-pro.php na linha 119
+

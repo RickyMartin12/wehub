@@ -1,0 +1,6 @@
+2021-07-07T22:50:29+00:00 CRITICAL Cannot redeclare elementor_pro_load_plugin() (previously declared in /home/wehubpt/public_html/wp-content/plugins/elementor-pro-master/elementor-pro.php:37) em /home/wehubpt/public_html/wp-content/plugins/elementor-pro/elementor-pro.php na linha 39
+
+2021-07-07T22:50:59+00:00 CRITICAL Cannot redeclare elementor_pro_load_plugin() (previously declared in /home/wehubpt/public_html/wp-content/plugins/elementor-pro-master/elementor-pro.php:37) em /home/wehubpt/public_html/wp-content/plugins/elementor-pro/elementor-pro.php na linha 39
+
+2021-07-07T22:51:00+00:00 CRITICAL Cannot redeclare elementor_pro_load_plugin() (previously declared in /home/wehubpt/public_html/wp-content/plugins/elementor-pro-master/elementor-pro.php:37) em /home/wehubpt/public_html/wp-content/plugins/elementor-pro/elementor-pro.php na linha 39
+
