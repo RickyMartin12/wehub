@@ -1,0 +1,8 @@
+/**
+ * Put your custom css here
+ * You can also move it to your-theme/buddyblog/community-builder/assets/css
+ */
+.bbl-field-description {
+    font-size: .85em;
+    margin: .5em 0;
+}

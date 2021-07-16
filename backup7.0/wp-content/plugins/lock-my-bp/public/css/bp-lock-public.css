@@ -1,0 +1,67 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+.bplock-login-form-container{
+	text-align: center;
+}
+.bplock-login-form-container input, .bplock-login-form-container button{
+	width: 50%;
+}
+.bplock-register-form-container input {
+	width: 50%!important;
+	margin-bottom: 0!important;
+}
+ul.bplock-login-shortcode-tabs{
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+	text-align: center;
+}
+ul.bplock-login-shortcode-tabs li{
+	background: none;
+	color: #222;
+	display: inline-block;
+	padding: 10px 15px;
+	cursor: pointer;
+	text-align: center;
+}
+ul.bplock-login-shortcode-tabs li.current{
+	background: #ededed;
+	color: #222;
+}
+.tab-content{
+	display: none;
+	background: #ededed;
+	padding: 15px;
+}
+.tab-content.current{
+	display: inherit;
+}
+.isa_info, .isa_success, .isa_warning, .isa_error {
+	margin: 10px 0px;
+}
+.isa_info {
+	color: #00529B;
+	background-color: #BDE5F8;
+}
+.isa_success {
+	color: #4F8A10;
+	background-color: #DFF2BF;
+}
+.isa_warning {
+	color: #9F6000;
+	background-color: #FEEFB3;
+}
+.isa_error {
+	color: #D8000C;
+	background-color: #FFBABA;
+}
+.isa_info i, .isa_success i, .isa_warning i, .isa_error i {
+	margin:10px 22px;
+	font-size:2em;
+	vertical-align:middle;
+}
+.bplock-message{
+	display: none;
+}

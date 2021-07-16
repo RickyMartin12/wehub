@@ -1,0 +1,2 @@
+2021-06-29T19:59:18+00:00 CRITICAL require_once(): Failed opening required '/home/wehubpt/public_html/wp-content/plugins/woocommerce/includes/wccom-site/rest-api/endpoints/class-wc-rest-wccom-site-installer-controller.php' (include_path='.:/opt/alt/php74/usr/share/pear') em /home/wehubpt/public_html/wp-content/plugins/woocommerce/includes/wccom-site/class-wc-wccom-site.php na linha 243
+

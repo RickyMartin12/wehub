@@ -1,0 +1,2628 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: multi-rating-pro\n"
+"POT-Creation-Date: 2020-06-24 21:28+1000\n"
+"PO-Revision-Date: 2017-05-28 21:04+1000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_AU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../assets/js/blocks.js:10
+msgid "Use default"
+msgstr ""
+
+#: ../assets/js/blocks.js:29 ../assets/js/blocks.js:61
+#: ../assets/js/blocks.js:175 ../assets/js/blocks.js:271
+#: ../assets/js/blocks.js:403 ../assets/js/blocks.js:517
+#: ../assets/js/plugin.js:87 ../includes/admin/class-post-metabox.php:112
+#: ../includes/admin/class-rating-entry-table.php:164
+#: ../includes/admin/class-rating-results-table.php:105
+#: ../includes/admin/rating-entries.php:90
+#: ../includes/admin/rating-entries.php:143 ../includes/admin/tools.php:165
+#: ../includes/admin/tools.php:743 ../includes/widgets.php:173
+#: ../includes/widgets.php:492 ../includes/widgets.php:731
+#: ../includes/widgets.php:756 ../includes/widgets.php:852
+#: ../includes/widgets.php:1002 ../includes/widgets.php:1332
+msgid "Rating Form"
+msgstr ""
+
+#: ../assets/js/blocks.js:30
+msgid "Adds a rating form for a post."
+msgstr ""
+
+#: ../assets/js/blocks.js:73 ../assets/js/blocks.js:259
+#: ../assets/js/blocks.js:529 ../includes/admin/rating-entries.php:452
+#: ../includes/admin/rating-forms.php:80 ../includes/admin/tools.php:428
+#: ../includes/class-api.php:2838 ../includes/class-comments.php:172
+#: ../includes/class-comments.php:331 ../includes/widgets.php:164
+#: ../includes/widgets.php:484 ../includes/widgets.php:848
+#: ../includes/widgets.php:998 ../includes/widgets.php:1323
+#: ../templates/rating-form.php:23 ../templates/user-ratings-dashboard.php:121
+msgid "Title"
+msgstr ""
+
+#: ../assets/js/blocks.js:84 ../includes/class-settings.php:1721
+msgid "Submit Button Text"
+msgstr ""
+
+#: ../assets/js/blocks.js:95 ../includes/class-settings.php:1732
+msgid "Update Button Text"
+msgstr ""
+
+#: ../assets/js/blocks.js:106 ../includes/class-settings.php:1743
+msgid "Delete Button Text"
+msgstr ""
+
+#: ../assets/js/blocks.js:131 ../includes/widgets.php:654
+msgid "Rating Result"
+msgstr ""
+
+#: ../assets/js/blocks.js:132
+msgid "Displays an average rating result for a post."
+msgstr ""
+
+#: ../assets/js/blocks.js:163 ../assets/js/blocks.js:635
+#: ../includes/class-settings.php:1253 ../includes/widgets.php:1474
+msgid "Show Title"
+msgstr ""
+
+#: ../assets/js/blocks.js:167
+msgid "Do you want to display the post title?"
+msgstr ""
+
+#: ../assets/js/blocks.js:187 ../assets/js/blocks.js:283
+#: ../assets/js/blocks.js:415 ../assets/js/blocks.js:572
+#: ../includes/widgets.php:180 ../includes/widgets.php:499
+#: ../includes/widgets.php:1339
+msgid "Result Type"
+msgstr ""
+
+#: ../assets/js/blocks.js:192 ../assets/js/blocks.js:288
+#: ../assets/js/blocks.js:420 ../assets/js/blocks.js:577
+#: ../includes/admin/class-rating-item-table.php:114
+#: ../includes/admin/rating-items.php:73 ../includes/class-settings.php:530
+#: ../includes/widgets.php:184 ../includes/widgets.php:503
+#: ../includes/widgets.php:1343
+msgid "Stars"
+msgstr ""
+
+#: ../assets/js/blocks.js:193 ../assets/js/blocks.js:289
+#: ../assets/js/blocks.js:421 ../assets/js/blocks.js:578
+#: ../includes/class-settings.php:531 ../includes/widgets.php:186
+#: ../includes/widgets.php:505 ../includes/widgets.php:1345
+msgid "Score"
+msgstr ""
+
+#: ../assets/js/blocks.js:194 ../assets/js/blocks.js:290
+#: ../assets/js/blocks.js:422 ../assets/js/blocks.js:579
+#: ../includes/class-settings.php:532 ../includes/widgets.php:185
+#: ../includes/widgets.php:504 ../includes/widgets.php:1344
+msgid "Percentage"
+msgstr ""
+
+#: ../assets/js/blocks.js:203 ../assets/js/blocks.js:313
+#: ../assets/js/blocks.js:431
+msgid "Show Count"
+msgstr ""
+
+#: ../assets/js/blocks.js:227 ../includes/widgets.php:18
+msgid "Rating Results List"
+msgstr ""
+
+#: ../assets/js/blocks.js:228
+msgid "Displays a list of the highest average rating results for posts."
+msgstr ""
+
+#: ../assets/js/blocks.js:299 ../assets/js/blocks.js:588
+#: ../includes/widgets.php:168 ../includes/widgets.php:488
+#: ../includes/widgets.php:1327
+msgid "Limit"
+msgstr ""
+
+#: ../assets/js/blocks.js:324 ../includes/widgets.php:246
+#: ../includes/widgets.php:565 ../includes/widgets.php:1405
+msgid "Show Filter"
+msgstr ""
+
+#: ../assets/js/blocks.js:335 ../includes/widgets.php:258
+#: ../includes/widgets.php:577
+msgid "Show Rank"
+msgstr ""
+
+#: ../assets/js/blocks.js:346 ../includes/widgets.php:254
+#: ../includes/widgets.php:573
+msgid "Show Featured Image"
+msgstr ""
+
+#: ../assets/js/blocks.js:371 ../includes/widgets.php:894
+#: ../includes/widgets.php:983
+msgid "Rating Item Results"
+msgstr ""
+
+#: ../assets/js/blocks.js:372
+msgid "Displays a summary or a breakdown of rating item results."
+msgstr ""
+
+#: ../assets/js/blocks.js:435
+msgid "Only applicable for no options layout."
+msgstr ""
+
+#: ../assets/js/blocks.js:443 ../assets/js/blocks.js:540
+#: ../includes/widgets.php:1026 ../includes/widgets.php:1497
+msgid "Layout"
+msgstr ""
+
+#: ../assets/js/blocks.js:448 ../includes/widgets.php:1029
+msgid "No options"
+msgstr ""
+
+#: ../assets/js/blocks.js:449 ../includes/widgets.php:1030
+msgid "Options inline"
+msgstr ""
+
+#: ../assets/js/blocks.js:450 ../includes/widgets.php:1031
+msgid "Options block"
+msgstr ""
+
+#: ../assets/js/blocks.js:452
+msgid ""
+"No options shows a summary. Options inline shows a breakdown. Options block "
+"displays a bar chart."
+msgstr ""
+
+#: ../assets/js/blocks.js:460 ../includes/widgets.php:1037
+msgid "Preserve Max Option"
+msgstr ""
+
+#: ../assets/js/blocks.js:464
+msgid ""
+"Check to preserve the maximum option values when calculating results. This "
+"only effects the options inline and options block layouts."
+msgstr ""
+
+#: ../assets/js/blocks.js:485
+msgid "Rating Entry Details List"
+msgstr ""
+
+#: ../assets/js/blocks.js:486
+msgid "Displays a list of rating entry details."
+msgstr ""
+
+#: ../assets/js/blocks.js:545 ../includes/widgets.php:1499
+msgid "Table"
+msgstr ""
+
+#: ../assets/js/blocks.js:546 ../includes/widgets.php:1500
+msgid "Inline"
+msgstr ""
+
+#: ../assets/js/blocks.js:548
+msgid ""
+"Review layout for display. Note inline is more responsive and better suited "
+"to widget areas."
+msgstr ""
+
+#: ../assets/js/blocks.js:556
+#: ../includes/admin/class-rating-entry-table.php:125
+#: ../includes/admin/class-rating-results-table.php:76
+#: ../includes/widgets.php:293 ../includes/widgets.php:617
+#: ../includes/widgets.php:1440
+msgid "Sort By"
+msgstr ""
+
+#: ../assets/js/blocks.js:561
+#: ../includes/admin/class-rating-entry-table.php:128
+#: ../includes/admin/class-rating-results-table.php:79
+#: ../includes/widgets.php:297 ../includes/widgets.php:621
+#: ../includes/widgets.php:1444
+msgid "Highest Rated"
+msgstr ""
+
+#: ../assets/js/blocks.js:562
+#: ../includes/admin/class-rating-entry-table.php:129
+#: ../includes/admin/class-rating-results-table.php:80
+#: ../includes/widgets.php:298 ../includes/widgets.php:622
+#: ../includes/widgets.php:1445
+msgid "Lowest Rated"
+msgstr ""
+
+#: ../assets/js/blocks.js:563
+#: ../includes/admin/class-rating-entry-table.php:130
+#: ../includes/widgets.php:1446
+msgid "Most Recent"
+msgstr ""
+
+#: ../assets/js/blocks.js:602 ../includes/widgets.php:1505
+msgid "Show Load More"
+msgstr ""
+
+#: ../assets/js/blocks.js:613 ../includes/widgets.php:1478
+msgid "Show Name"
+msgstr ""
+
+#: ../assets/js/blocks.js:624 ../includes/widgets.php:1413
+msgid "Show Avatar"
+msgstr ""
+
+#: ../assets/js/blocks.js:646 ../includes/widgets.php:1482
+msgid "Show Comment"
+msgstr ""
+
+#: ../assets/js/blocks.js:657 ../includes/widgets.php:581
+#: ../includes/widgets.php:1421
+msgid "Show Date"
+msgstr ""
+
+#: ../assets/js/blocks.js:668 ../includes/class-settings.php:1242
+#: ../includes/widgets.php:1462
+msgid "Show Overall Rating"
+msgstr ""
+
+#: ../assets/js/blocks.js:679 ../includes/class-settings.php:1264
+#: ../includes/widgets.php:1466
+msgid "Show Rating Items"
+msgstr ""
+
+#: ../assets/js/blocks.js:690 ../includes/class-settings.php:1275
+#: ../includes/widgets.php:1470
+msgid "Show Custom Fields"
+msgstr ""
+
+#: ../assets/js/blocks.js:701 ../includes/widgets.php:1417
+msgid "Add Author Link"
+msgstr ""
+
+#: ../assets/js/plugin.js:37 ../includes/admin/class-post-metabox.php:127
+#: ../includes/admin/filters.php:146 ../includes/class-settings.php:1151
+msgid "Rating Form Position"
+msgstr ""
+
+#: ../assets/js/plugin.js:39 ../assets/js/plugin.js:154
+#: ../includes/class-settings.php:1160 ../includes/class-settings.php:1177
+#: ../includes/misc-functions.php:444 ../includes/misc-functions.php:461
+msgid "Do not show"
+msgstr ""
+
+#: ../assets/js/plugin.js:40 ../assets/js/plugin.js:76
+#: ../assets/js/plugin.js:119 ../assets/js/plugin.js:155
+#: ../includes/admin/class-post-metabox.php:117
+#: ../includes/misc-functions.php:445 ../includes/misc-functions.php:462
+#: ../includes/misc-functions.php:521
+msgid "Use default settings"
+msgstr ""
+
+#: ../assets/js/plugin.js:41 ../assets/js/plugin.js:158
+#: ../includes/class-settings.php:1161 ../includes/class-settings.php:1180
+#: ../includes/misc-functions.php:446 ../includes/misc-functions.php:465
+msgid "Before content"
+msgstr ""
+
+#: ../assets/js/plugin.js:42 ../assets/js/plugin.js:159
+#: ../includes/class-settings.php:1162 ../includes/class-settings.php:1181
+#: ../includes/misc-functions.php:447 ../includes/misc-functions.php:466
+msgid "After content"
+msgstr ""
+
+#: ../assets/js/plugin.js:43 ../includes/class-settings.php:1163
+#: ../includes/misc-functions.php:448
+msgid "Comment form"
+msgstr ""
+
+#: ../assets/js/plugin.js:45
+msgid "Auto placement position for the rating form on the post."
+msgstr ""
+
+#: ../assets/js/plugin.js:88
+msgid "Set a default rating form for the post"
+msgstr ""
+
+#: ../assets/js/plugin.js:117
+msgid "Allow Anonymous"
+msgstr ""
+
+#: ../assets/js/plugin.js:120 ../includes/admin/class-post-metabox.php:118
+msgid "Yes"
+msgstr ""
+
+#: ../assets/js/plugin.js:121 ../includes/admin/class-post-metabox.php:119
+msgid "No"
+msgstr ""
+
+#: ../assets/js/plugin.js:123
+msgid ""
+"Do you want to allow anyone to submit ratings? This includes unauthenticated "
+"and non logged in users."
+msgstr ""
+
+#: ../assets/js/plugin.js:151 ../includes/class-settings.php:1168
+msgid "Rating Result Position"
+msgstr ""
+
+#: ../assets/js/plugin.js:152
+msgid "Add the rating result to the post."
+msgstr ""
+
+#: ../assets/js/plugin.js:156 ../includes/class-settings.php:1178
+#: ../includes/misc-functions.php:463
+msgid "Before title"
+msgstr ""
+
+#: ../assets/js/plugin.js:157 ../includes/class-settings.php:1179
+#: ../includes/misc-functions.php:464
+msgid "After title"
+msgstr ""
+
+#: ../assets/js/plugin.js:161
+msgid "Auto placement position for the rating result on the post."
+msgstr ""
+
+#: ../assets/js/plugin.js:192
+msgid "Schema.org item type for post."
+msgstr ""
+
+#: ../assets/js/plugin.js:195 ../includes/admin/class-post-metabox.php:140
+msgid "Book"
+msgstr ""
+
+#: ../assets/js/plugin.js:196 ../includes/admin/class-post-metabox.php:141
+msgid "Course"
+msgstr ""
+
+#: ../assets/js/plugin.js:197 ../includes/admin/class-post-metabox.php:142
+msgid "CreativeWorkSeason"
+msgstr ""
+
+#: ../assets/js/plugin.js:198 ../includes/admin/class-post-metabox.php:143
+msgid "CreativeWorkSeries"
+msgstr ""
+
+#: ../assets/js/plugin.js:199 ../includes/admin/class-post-metabox.php:144
+msgid "Episode"
+msgstr ""
+
+#: ../assets/js/plugin.js:200 ../includes/admin/class-post-metabox.php:145
+msgid "Event"
+msgstr ""
+
+#: ../assets/js/plugin.js:201 ../includes/admin/class-post-metabox.php:146
+msgid "Game"
+msgstr ""
+
+#: ../assets/js/plugin.js:202 ../includes/admin/class-post-metabox.php:147
+msgid "HowTo"
+msgstr ""
+
+#: ../assets/js/plugin.js:203 ../includes/admin/class-post-metabox.php:148
+msgid "LocalBusiness"
+msgstr ""
+
+#: ../assets/js/plugin.js:204 ../includes/admin/class-post-metabox.php:149
+msgid "MediaObject"
+msgstr ""
+
+#: ../assets/js/plugin.js:205 ../includes/admin/class-post-metabox.php:150
+msgid "Movie"
+msgstr ""
+
+#: ../assets/js/plugin.js:206 ../includes/admin/class-post-metabox.php:151
+msgid "MusicPlaylist"
+msgstr ""
+
+#: ../assets/js/plugin.js:207 ../includes/admin/class-post-metabox.php:152
+msgid "MusicRecording"
+msgstr ""
+
+#: ../assets/js/plugin.js:208 ../includes/admin/class-post-metabox.php:153
+msgid "Organization"
+msgstr ""
+
+#: ../assets/js/plugin.js:209 ../includes/admin/class-post-metabox.php:154
+msgid "Product"
+msgstr ""
+
+#: ../assets/js/plugin.js:210 ../includes/admin/class-post-metabox.php:155
+msgid "Recipe"
+msgstr ""
+
+#: ../assets/js/plugin.js:211 ../includes/admin/class-post-metabox.php:156
+msgid "SoftwareApplication"
+msgstr ""
+
+#: ../assets/js/plugin.js:213 ../includes/admin/class-post-metabox.php:158
+msgid ""
+"Schema.org item type for post. If you have the WordPress SEO or WooCommerce "
+"plugins adding structured data for the type already, do not set. Note some "
+"types may require additional structured data."
+msgstr ""
+
+#: ../assets/js/plugin.js:241 ../assets/js/plugin.js:248
+#: ../includes/admin/about.php:14 ../includes/admin/class-post-metabox.php:33
+#: ../includes/class-settings.php:1948 ../multi-rating-pro.php:646
+msgid "Multi Rating Pro"
+msgstr ""
+
+#: ../assets/js/plugin.js:275 ../includes/admin/settings.php:20
+msgid "Auto Placement"
+msgstr ""
+
+#: ../assets/js/plugin.js:292
+msgid "Structured Data"
+msgstr ""
+
+#: ../assets/js/plugin.js:301
+msgid ""
+"Supports rich snippets with aggregate ratings for the post in search engine "
+"results pages (SERP)."
+msgstr ""
+
+#: ../includes/admin/about.php:15
+#, php-format
+msgid "Multi Rating Pro v%s"
+msgstr ""
+
+#: ../includes/admin/about.php:17
+msgid "Premium version of the Multi Rating plugin available on WordPress.org."
+msgstr ""
+
+#: ../includes/admin/about.php:27
+msgid "Support"
+msgstr ""
+
+#: ../includes/admin/about.php:42
+#, php-format
+msgid ""
+"Please check the <a href=\"%1$s\">documentation</a> available first before "
+"submitting a technical <a href=\"%2$s\">support request</a>. Please note "
+"that the WordPress.org support forum is not to be used for premium plugin "
+"support."
+msgstr ""
+
+#: ../includes/admin/class-custom-fields-table.php:34
+#: ../includes/admin/rating-forms.php:169 ../multi-rating-pro.php:884
+msgid "Custom Field"
+msgstr ""
+
+#: ../includes/admin/class-custom-fields-table.php:35
+#: ../includes/admin/custom-fields.php:80 ../includes/admin/rating-forms.php:93
+#: ../multi-rating-pro.php:663
+msgid "Custom Fields"
+msgstr ""
+
+#: ../includes/admin/class-custom-fields-table.php:40
+#: ../includes/admin/class-custom-fields-table.php:143
+#: ../includes/admin/custom-fields.php:52
+msgid "Input"
+msgstr ""
+
+#: ../includes/admin/class-custom-fields-table.php:41
+#: ../includes/admin/class-custom-fields-table.php:145
+#: ../includes/admin/custom-fields.php:53
+msgid "Textarea"
+msgstr ""
+
+#: ../includes/admin/class-custom-fields-table.php:68
+#: ../includes/admin/class-rating-item-table.php:64
+#: ../includes/admin/custom-fields.php:43 ../includes/admin/rating-items.php:62
+msgid "Label"
+msgstr ""
+
+#: ../includes/admin/class-custom-fields-table.php:69
+#: ../includes/admin/class-rating-entry-table.php:162
+#: ../includes/admin/class-rating-form-table.php:65
+#: ../includes/admin/class-rating-item-table.php:65 ../multi-rating-pro.php:890
+msgid "ID"
+msgstr ""
+
+#: ../includes/admin/class-custom-fields-table.php:70
+#: ../includes/admin/class-rating-item-table.php:66
+#: ../includes/admin/custom-fields.php:49
+#: ../includes/admin/rating-forms.php:120
+#: ../includes/admin/rating-forms.php:205 ../includes/admin/rating-items.php:68
+msgid "Type"
+msgstr ""
+
+#: ../includes/admin/class-custom-fields-table.php:71
+#: ../includes/admin/custom-fields.php:59
+msgid "Max Length"
+msgstr ""
+
+#: ../includes/admin/class-custom-fields-table.php:72
+#: ../includes/admin/custom-fields.php:67
+msgid "Placeholder"
+msgstr ""
+
+#: ../includes/admin/class-custom-fields-table.php:134
+#: ../includes/admin/class-rating-entry-table.php:289
+#: ../includes/admin/class-rating-entry-table.php:329
+#: ../includes/admin/class-rating-entry-table.php:349
+#: ../includes/admin/class-rating-form-table.php:120
+#: ../includes/admin/class-rating-item-table.php:126
+#: ../includes/admin/class-rating-results-table.php:220
+#: ../includes/admin/class-rating-results-table.php:239
+#: ../includes/admin/rating-forms.php:140
+#: ../includes/admin/rating-forms.php:162
+#, php-format
+msgid "ID: %d"
+msgstr ""
+
+#: ../includes/admin/class-custom-fields-table.php:135
+#: ../includes/admin/class-rating-entry-table.php:333
+#: ../includes/admin/class-rating-entry-table.php:352
+#: ../includes/admin/class-rating-form-table.php:121
+#: ../includes/admin/class-rating-item-table.php:127
+#: ../includes/admin/class-rating-results-table.php:224
+#: ../includes/admin/class-rating-results-table.php:242
+#: ../includes/admin/rating-forms.php:141
+#: ../includes/admin/rating-forms.php:163 ../multi-rating-pro.php:880
+#: ../templates/user-ratings-dashboard.php:237
+msgid "Edit"
+msgstr ""
+
+#: ../includes/admin/class-custom-fields-table.php:136
+#: ../includes/admin/class-custom-fields-table.php:175
+#: ../includes/admin/class-rating-entry-table.php:493
+#: ../includes/admin/class-rating-form-table.php:126
+#: ../includes/admin/class-rating-form-table.php:192
+#: ../includes/admin/class-rating-item-table.php:128
+#: ../includes/admin/class-rating-item-table.php:160
+#: ../includes/admin/class-rating-results-table.php:323
+#: ../includes/admin/rating-forms.php:142
+#: ../includes/admin/rating-forms.php:164
+#: ../includes/admin/rating-forms.php:184
+#: ../includes/admin/rating-items.php:117 ../multi-rating-pro.php:881
+msgid "Delete"
+msgstr ""
+
+#: ../includes/admin/class-custom-fields-table.php:212
+msgid "Custom field(s) deleted successfully."
+msgstr ""
+
+#: ../includes/admin/class-custom-fields-table.php:215
+#: ../includes/admin/class-custom-fields-table.php:252
+#: ../includes/admin/class-rating-entry-table.php:541
+#, php-format
+msgid "An error has occured. %s"
+msgstr ""
+
+#: ../includes/admin/class-custom-fields-table.php:231
+msgid "Custom field deleted successfully."
+msgstr ""
+
+#: ../includes/admin/class-plugin-updater.php:196
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr ""
+
+#: ../includes/admin/class-plugin-updater.php:204
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s "
+"or %5$supdate now%6$s."
+msgstr ""
+
+#: ../includes/admin/class-plugin-updater.php:358
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: ../includes/admin/class-plugin-updater.php:358
+msgid "Error"
+msgstr ""
+
+#: ../includes/admin/class-post-metabox.php:115
+#: ../includes/class-settings.php:478
+msgid "Allow Anonymous Ratings"
+msgstr ""
+
+#: ../includes/admin/class-post-metabox.php:125
+msgid "Auto Placement Settings"
+msgstr ""
+
+#: ../includes/admin/class-post-metabox.php:130
+#: ../includes/admin/filters.php:155
+msgid "Rating Results Position"
+msgstr ""
+
+#: ../includes/admin/class-post-metabox.php:135
+msgid "Structured Data Type"
+msgstr ""
+
+#: ../includes/admin/class-post-metabox.php:136
+msgid "Create New Type"
+msgstr ""
+
+#: ../includes/admin/class-rating-entry-table.php:39
+msgid "Entry"
+msgstr ""
+
+#: ../includes/admin/class-rating-entry-table.php:40
+#: ../includes/admin/class-rating-form-table.php:66 ../multi-rating-pro.php:660
+msgid "Entries"
+msgstr ""
+
+#: ../includes/admin/class-rating-entry-table.php:60
+#: ../includes/misc-functions.php:194 ../includes/misc-functions.php:258
+#: ../includes/misc-functions.php:319 ../includes/misc-functions.php:378
+#: ../includes/widgets.php:231 ../includes/widgets.php:550
+#: ../includes/widgets.php:1390 ../includes/widgets.php:1525
+#: ../templates/rating-entry-details-list.php:31
+#: ../templates/rating-result-list.php:31
+#: ../templates/user-ratings-dashboard.php:31
+msgid "All"
+msgstr ""
+
+#: ../includes/admin/class-rating-entry-table.php:61
+#: ../includes/admin/class-rating-entry-table.php:307
+#: ../multi-rating-pro.php:888 ../templates/user-ratings-dashboard.php:226
+msgid "Approved"
+msgstr ""
+
+#: ../includes/admin/class-rating-entry-table.php:62
+#: ../includes/admin/class-rating-entry-table.php:309
+#: ../multi-rating-pro.php:889 ../templates/user-ratings-dashboard.php:226
+msgid "Pending"
+msgstr ""
+
+#: ../includes/admin/class-rating-entry-table.php:131
+#: ../includes/widgets.php:1447
+msgid "Oldest"
+msgstr ""
+
+#: ../includes/admin/class-rating-entry-table.php:135
+msgid "Comments only"
+msgstr ""
+
+#: ../includes/admin/class-rating-entry-table.php:137
+#: ../includes/admin/class-rating-results-table.php:86
+#: ../includes/admin/reports.php:75 ../includes/admin/reports.php:153
+#: ../includes/class-settings.php:152
+msgid "Filter"
+msgstr ""
+
+#: ../includes/admin/class-rating-entry-table.php:163
+#: ../includes/admin/class-rating-results-table.php:104
+#: ../includes/admin/rating-entries.php:75
+msgid "Post"
+msgstr ""
+
+#: ../includes/admin/class-rating-entry-table.php:165
+#: ../includes/admin/rating-entries.php:106
+msgid "User"
+msgstr ""
+
+#: ../includes/admin/class-rating-entry-table.php:166
+#: ../templates/user-ratings-dashboard.php:126
+msgid "Date"
+msgstr ""
+
+#: ../includes/admin/class-rating-entry-table.php:167
+msgid "Rating Details"
+msgstr ""
+
+#: ../includes/admin/class-rating-entry-table.php:168
+#: ../templates/user-ratings-dashboard.php:133
+msgid "Status"
+msgstr ""
+
+#: ../includes/admin/class-rating-entry-table.php:285
+#: ../includes/notifications.php:57 ../includes/notifications.php:152
+#: ../templates/rating-entries-feed.php:97
+#: ../templates/rating-entry-details.php:35
+#: ../templates/rating-entry-details.php:215
+msgid "Anonymous"
+msgstr ""
+
+#: ../includes/admin/class-rating-entry-table.php:315
+#: ../includes/admin/class-rating-entry-table.php:487
+#: ../multi-rating-pro.php:887
+msgid "Unapprove"
+msgstr ""
+
+#: ../includes/admin/class-rating-entry-table.php:315
+#: ../includes/admin/class-rating-entry-table.php:486
+#: ../multi-rating-pro.php:886
+msgid "Approve"
+msgstr ""
+
+#: ../includes/admin/class-rating-entry-table.php:375
+#, php-format
+msgid "Title: %s"
+msgstr ""
+
+#: ../includes/admin/class-rating-entry-table.php:405
+#, php-format
+msgid "Overall Rating: %s"
+msgstr ""
+
+#: ../includes/admin/class-rating-entry-table.php:411
+#, php-format
+msgid "Comment: %s"
+msgstr ""
+
+#: ../includes/admin/class-rating-entry-table.php:448
+msgid "Edit Rating"
+msgstr ""
+
+#: ../includes/admin/class-rating-entry-table.php:448
+#: ../includes/class-settings.php:150
+msgid "Delete Rating"
+msgstr ""
+
+#: ../includes/admin/class-rating-entry-table.php:452
+msgid "Edit Comment"
+msgstr ""
+
+#: ../includes/admin/class-rating-entry-table.php:533
+msgid "Entries deleted successfully"
+msgstr ""
+
+#: ../includes/admin/class-rating-entry-table.php:535
+msgid "Entries approved successfully"
+msgstr ""
+
+#: ../includes/admin/class-rating-entry-table.php:537
+msgid "Entries unapproved successfully"
+msgstr ""
+
+#: ../includes/admin/class-rating-form-table.php:35
+#: ../includes/admin/class-rating-form-table.php:36 ../multi-rating-pro.php:661
+msgid "Rating Forms"
+msgstr ""
+
+#: ../includes/admin/class-rating-form-table.php:64
+#: ../includes/admin/filters.php:103 ../includes/admin/rating-entries.php:466
+#: ../includes/admin/rating-forms.php:41 ../includes/admin/rating-forms.php:81
+#: ../includes/admin/tools.php:431 ../includes/class-api.php:2841
+#: ../templates/rating-form.php:78
+msgid "Name"
+msgstr ""
+
+#: ../includes/admin/class-rating-form-table.php:67
+#: ../includes/admin/class-rating-results-table.php:107
+msgid "Shortcode"
+msgstr ""
+
+#: ../includes/admin/class-rating-form-table.php:129
+#: ../includes/admin/class-rating-results-table.php:281
+msgid "View Entries"
+msgstr ""
+
+#: ../includes/admin/class-rating-form-table.php:213
+msgid "Rating form(s) deleted successfully."
+msgstr ""
+
+#: ../includes/admin/class-rating-form-table.php:233
+msgid "Rating form deleted."
+msgstr ""
+
+#: ../includes/admin/class-rating-item-table.php:36
+#: ../includes/admin/rating-forms.php:147 ../multi-rating-pro.php:883
+msgid "Rating Item"
+msgstr ""
+
+#: ../includes/admin/class-rating-item-table.php:37
+#: ../includes/admin/rating-forms.php:55 ../includes/admin/rating-items.php:148
+#: ../includes/admin/reports.php:60 ../includes/admin/tools.php:184
+#: ../multi-rating-pro.php:662
+msgid "Rating Items"
+msgstr ""
+
+#: ../includes/admin/class-rating-item-table.php:67
+#: ../includes/admin/rating-items.php:79
+msgid "Max Option"
+msgstr ""
+
+#: ../includes/admin/class-rating-item-table.php:68
+#: ../includes/admin/rating-items.php:85
+msgid "Option Text"
+msgstr ""
+
+#: ../includes/admin/class-rating-item-table.php:69
+#: ../includes/admin/rating-items.php:133
+msgid "Default Option"
+msgstr ""
+
+#: ../includes/admin/class-rating-item-table.php:116
+#: ../includes/admin/rating-items.php:71
+msgid "Select"
+msgstr ""
+
+#: ../includes/admin/class-rating-item-table.php:118
+#: ../includes/admin/rating-items.php:72
+msgid "Radio"
+msgstr ""
+
+#: ../includes/admin/class-rating-item-table.php:120
+#: ../includes/admin/rating-items.php:74
+msgid "Thumbs"
+msgstr ""
+
+#: ../includes/admin/class-rating-item-table.php:181
+msgid "Rating item(s) deleted successfully."
+msgstr ""
+
+#: ../includes/admin/class-rating-item-table.php:197
+msgid "Rating item deleted successfully."
+msgstr ""
+
+#: ../includes/admin/class-rating-results-table.php:36
+msgid "Result"
+msgstr ""
+
+#: ../includes/admin/class-rating-results-table.php:37
+#: ../includes/admin/rating-results.php:14
+msgid "Results"
+msgstr ""
+
+#: ../includes/admin/class-rating-results-table.php:81
+#: ../includes/widgets.php:299
+msgid "Most Entries"
+msgstr ""
+
+#: ../includes/admin/class-rating-results-table.php:82
+#: ../includes/widgets.php:300 ../includes/widgets.php:623
+msgid "Post Title Ascending"
+msgstr ""
+
+#: ../includes/admin/class-rating-results-table.php:83
+#: ../includes/widgets.php:301 ../includes/widgets.php:624
+msgid "Post Title Descending"
+msgstr ""
+
+#: ../includes/admin/class-rating-results-table.php:106
+msgid "Overall Rating"
+msgstr ""
+
+#: ../includes/admin/class-rating-results-table.php:288
+#: ../includes/admin/rating-forms.php:66
+msgid "None"
+msgstr ""
+
+#: ../includes/admin/class-rating-results-table.php:361
+msgid "Rating results deleted successfully."
+msgstr ""
+
+#: ../includes/admin/custom-fields.php:16
+msgid "Add New Custom Field"
+msgstr ""
+
+#: ../includes/admin/custom-fields.php:18
+#, php-format
+msgid "Edit Custom Field #%d"
+msgstr ""
+
+#: ../includes/admin/custom-fields.php:22
+msgid "Sample custom field"
+msgstr ""
+
+#: ../includes/admin/custom-fields.php:45
+msgid "Enter a label..."
+msgstr ""
+
+#: ../includes/admin/custom-fields.php:61
+msgid "Enter max length..."
+msgstr ""
+
+#: ../includes/admin/custom-fields.php:62
+msgid "What is the maximum character length of the custom field?"
+msgstr ""
+
+#: ../includes/admin/custom-fields.php:69
+msgid "Enter a placeholder..."
+msgstr ""
+
+#: ../includes/admin/custom-fields.php:70
+msgid "Enter a HTML5 placeholder."
+msgstr ""
+
+#: ../includes/admin/custom-fields.php:75 ../includes/admin/filters.php:188
+#: ../includes/admin/rating-items.php:141
+#: ../includes/admin/rating-items.php:157
+msgid "Save Changes"
+msgstr ""
+
+#: ../includes/admin/custom-fields.php:80 ../includes/admin/filters.php:13
+#: ../includes/admin/rating-entries.php:201
+#: ../includes/admin/rating-forms.php:224
+#: ../includes/admin/rating-items.php:125
+#: ../includes/admin/rating-items.php:148
+msgid "Add New"
+msgstr ""
+
+#: ../includes/admin/custom-fields.php:114
+msgid "Label must be greater than 0 and cannot be greater than 255 characters."
+msgstr ""
+
+#: ../includes/admin/custom-fields.php:117
+msgid "Placeholder cannot be greater than 255 characters."
+msgstr ""
+
+#: ../includes/admin/custom-fields.php:120
+msgid "Max length must be numeric and greater than 0."
+msgstr ""
+
+#: ../includes/admin/custom-fields.php:164
+#: ../includes/admin/rating-entries.php:30
+#: ../includes/admin/rating-entries.php:42
+#: ../includes/admin/rating-items.php:278
+msgid "An error has occured."
+msgstr ""
+
+#: ../includes/admin/filters.php:12 ../multi-rating-pro.php:665
+msgid "Filters"
+msgstr ""
+
+#: ../includes/admin/filters.php:86 ../includes/admin/filters.php:367
+#, php-format
+msgid "Filter %d - %s"
+msgstr ""
+
+#: ../includes/admin/filters.php:107
+msgid "Filter Type"
+msgstr ""
+
+#: ../includes/admin/filters.php:110 ../includes/admin/filters.php:206
+#: ../includes/widgets.php:201 ../includes/widgets.php:520
+#: ../includes/widgets.php:1360
+msgid "Taxonomy"
+msgstr ""
+
+#: ../includes/admin/filters.php:111
+msgid "Post Type"
+msgstr ""
+
+#: ../includes/admin/filters.php:112 ../includes/admin/filters.php:257
+msgid "Post Ids"
+msgstr ""
+
+#: ../includes/admin/filters.php:113 ../includes/admin/filters.php:272
+msgid "Page URLs"
+msgstr ""
+
+#: ../includes/admin/filters.php:138 ../includes/class-settings.php:466
+msgid "Default Rating Form"
+msgstr ""
+
+#: ../includes/admin/filters.php:150
+msgid "Auto placement position of the rating form."
+msgstr ""
+
+#: ../includes/admin/filters.php:159
+msgid "Auto placement position of the rating result."
+msgstr ""
+
+#: ../includes/admin/filters.php:164
+msgid "Priority"
+msgstr ""
+
+#: ../includes/admin/filters.php:168
+msgid "Lower numbers have a higher priority."
+msgstr ""
+
+#: ../includes/admin/filters.php:173
+msgid "Override Post Meta"
+msgstr ""
+
+#: ../includes/admin/filters.php:177
+msgid "Override any settings configured in post meta."
+msgstr ""
+
+#: ../includes/admin/filters.php:189
+msgid "Delete Filter"
+msgstr ""
+
+#: ../includes/admin/filters.php:226 ../includes/widgets.php:221
+#: ../includes/widgets.php:540 ../includes/widgets.php:1380
+msgid "Terms"
+msgstr ""
+
+#: ../includes/admin/filters.php:241 ../includes/class-settings.php:1139
+msgid "Post Types"
+msgstr ""
+
+#: ../includes/admin/filters.php:260
+msgid "Enter the post ids, comma separated"
+msgstr ""
+
+#: ../includes/admin/filters.php:275
+msgid "Enter the page URLs, one per line"
+msgstr ""
+
+#: ../includes/admin/filters.php:362
+msgid "Filter saved."
+msgstr ""
+
+#: ../includes/admin/filters.php:425 ../tests/test-filters.php:70
+#: ../tests/test-filters.php:132 ../tests/test-filters.php:192
+#: ../tests/test-filters.php:254 ../tests/test-filters.php:285
+#: ../tests/test-filters.php:316 ../tests/test-filters.php:350
+#: ../tests/test-filters.php:398
+msgid "Sample Filter"
+msgstr ""
+
+#: ../includes/admin/rating-entries.php:35
+#, php-format
+msgid "Edit Rating Entry #%d"
+msgstr ""
+
+#: ../includes/admin/rating-entries.php:38
+msgid "Add New Rating Entry"
+msgstr ""
+
+#: ../includes/admin/rating-entries.php:84
+msgid "Enter Post ID"
+msgstr ""
+
+#: ../includes/admin/rating-entries.php:126
+msgid "Date & Time"
+msgstr ""
+
+#: ../includes/admin/rating-entries.php:188
+msgid "Update"
+msgstr ""
+
+#: ../includes/admin/rating-entries.php:197 ../includes/class-settings.php:146
+msgid "Rating Entries"
+msgstr ""
+
+#: ../includes/admin/rating-entries.php:238
+msgid "An error has occured. Unable to find existing rating entry."
+msgstr ""
+
+#: ../includes/admin/rating-entries.php:402
+#: ../templates/rating-form-rating-item.php:74
+msgid "Not applicable"
+msgstr ""
+
+#: ../includes/admin/rating-entries.php:453
+msgid "Enter a title..."
+msgstr ""
+
+#: ../includes/admin/rating-entries.php:467
+msgid "Enter a name..."
+msgstr ""
+
+#: ../includes/admin/rating-entries.php:480 ../includes/class-api.php:2844
+#: ../templates/rating-form.php:89
+msgid "Email"
+msgstr ""
+
+#: ../includes/admin/rating-entries.php:481
+msgid "Enter an e-mail address..."
+msgstr ""
+
+#: ../includes/admin/rating-entries.php:488
+#: ../includes/admin/rating-forms.php:83 ../includes/admin/tools.php:430
+#: ../includes/class-api.php:2847
+msgid "Comment"
+msgstr ""
+
+#: ../includes/admin/rating-entries.php:489
+msgid "Enter a comment..."
+msgstr ""
+
+#: ../includes/admin/rating-forms.php:16
+msgid "Add New Rating Form"
+msgstr ""
+
+#: ../includes/admin/rating-forms.php:18
+#, php-format
+msgid "Edit Rating Form #%d"
+msgstr ""
+
+#: ../includes/admin/rating-forms.php:31
+msgid "Switch"
+msgstr ""
+
+#: ../includes/admin/rating-forms.php:76
+msgid "Review Fields"
+msgstr ""
+
+#: ../includes/admin/rating-forms.php:82 ../includes/admin/tools.php:432
+msgid "E-mail"
+msgstr ""
+
+#: ../includes/admin/rating-forms.php:85
+msgid "Name and e-mail are not displayed for logged in users."
+msgstr ""
+
+#: ../includes/admin/rating-forms.php:104
+msgid "None."
+msgstr ""
+
+#: ../includes/admin/rating-forms.php:119
+#: ../includes/admin/rating-forms.php:204 ../includes/admin/rating-items.php:91
+msgid "Text"
+msgstr ""
+
+#: ../includes/admin/rating-forms.php:121
+#: ../includes/admin/rating-forms.php:206
+msgid "Required"
+msgstr ""
+
+#: ../includes/admin/rating-forms.php:122
+#: ../includes/admin/rating-forms.php:207
+msgid "Weight"
+msgstr ""
+
+#: ../includes/admin/rating-forms.php:123
+#: ../includes/admin/rating-forms.php:208
+msgid "Allow N/A"
+msgstr ""
+
+#: ../includes/admin/rating-forms.php:189 ../multi-rating-pro.php:885
+msgid "Review Field"
+msgstr ""
+
+#: ../includes/admin/rating-forms.php:198 ../multi-rating-pro.php:882
+msgid "No items."
+msgstr ""
+
+#: ../includes/admin/rating-forms.php:223
+msgid "Forms"
+msgstr ""
+
+#: ../includes/admin/rating-forms.php:256
+#: ../includes/admin/rating-forms.php:284
+#, php-format
+msgid "Id = %s"
+msgstr ""
+
+#: ../includes/admin/rating-forms.php:308
+#, php-format
+msgid "Rating Form %s"
+msgstr ""
+
+#: ../includes/admin/rating-forms.php:331
+msgid "Rating form saved."
+msgstr ""
+
+#: ../includes/admin/rating-forms.php:352
+msgid "Weight must be greater than 0."
+msgstr ""
+
+#: ../includes/admin/rating-items.php:19
+msgid "Add New Rating Item"
+msgstr ""
+
+#: ../includes/admin/rating-items.php:21
+#, php-format
+msgid "Edit Rating Item #%d"
+msgstr ""
+
+#: ../includes/admin/rating-items.php:29 ../includes/class-settings.php:793
+msgid "Sample rating item"
+msgstr ""
+
+#: ../includes/admin/rating-items.php:34
+msgid "0=No stars"
+msgstr ""
+
+#: ../includes/admin/rating-items.php:35
+msgid "1=1 star"
+msgstr ""
+
+#: ../includes/admin/rating-items.php:36
+msgid "2=2 stars"
+msgstr ""
+
+#: ../includes/admin/rating-items.php:37
+msgid "3=3 stars"
+msgstr ""
+
+#: ../includes/admin/rating-items.php:38
+msgid "4=4 stars"
+msgstr ""
+
+#: ../includes/admin/rating-items.php:39
+msgid "5=5 stars"
+msgstr ""
+
+#: ../includes/admin/rating-items.php:90
+msgid "Value"
+msgstr ""
+
+#: ../includes/admin/rating-items.php:92
+msgid "Action"
+msgstr ""
+
+#: ../includes/admin/rating-items.php:126
+msgid "Only show options with text"
+msgstr ""
+
+#: ../includes/admin/rating-items.php:128
+msgid ""
+"You can set a rating item as required on a rating form which means 0 cannot "
+"be selected.<br />For thumbs only 0 and 1 option texts are allowed for "
+"thumbs down and thumbs up respectfully."
+msgstr ""
+
+#: ../includes/admin/rating-items.php:189
+msgid "Max option value cannot be empty and must be a whole number. "
+msgstr ""
+
+#: ../includes/admin/rating-items.php:193
+msgid "Default option value cannot be empty and must be a whole number. "
+msgstr ""
+
+#: ../includes/admin/rating-items.php:197
+msgid "Label cannot be empty."
+msgstr ""
+
+#: ../includes/admin/rating-items.php:201
+#: ../includes/admin/rating-items.php:205
+msgid "Default option value cannot be greater than the max option value."
+msgstr ""
+
+#: ../includes/admin/rating-items.php:213
+#, php-format
+msgid "Option value %s must be numeric and greater than or equal to 0."
+msgstr ""
+
+#: ../includes/admin/rating-items.php:217
+msgid "Only 0 and 1 option texts are allowed for thumbs."
+msgstr ""
+
+#: ../includes/admin/rating-items.php:226
+msgid "Option text cannot be empty."
+msgstr ""
+
+#: ../includes/admin/rating-items.php:230
+#, php-format
+msgid "Duplicate option value %s."
+msgstr ""
+
+#: ../includes/admin/rating-items.php:234
+#, php-format
+msgid "Option value %s cannot be greater than max option value %s."
+msgstr ""
+
+#: ../includes/admin/reports.php:12
+msgid "Reports"
+msgstr ""
+
+#: ../includes/admin/reports.php:138
+msgid "Entries Over Time"
+msgstr ""
+
+#: ../includes/admin/settings.php:18
+msgid "General"
+msgstr ""
+
+#: ../includes/admin/settings.php:19
+msgid "Advanced"
+msgstr ""
+
+#: ../includes/admin/settings.php:21 ../includes/class-settings.php:302
+msgid "Emails"
+msgstr ""
+
+#: ../includes/admin/settings.php:22
+msgid "Custom Text"
+msgstr ""
+
+#: ../includes/admin/settings.php:23
+msgid "Styles"
+msgstr ""
+
+#: ../includes/admin/settings.php:24
+msgid "Licenses"
+msgstr ""
+
+#: ../includes/admin/settings.php:38
+msgid "Settings saved."
+msgstr ""
+
+#: ../includes/admin/tools.php:12 ../multi-rating-pro.php:666
+msgid "Tools"
+msgstr ""
+
+#: ../includes/admin/tools.php:58 ../includes/admin/tools.php:76
+msgid "Delete Rating Entries"
+msgstr ""
+
+#: ../includes/admin/tools.php:62
+msgid "Permanently delete rating entries from the database."
+msgstr ""
+
+#: ../includes/admin/tools.php:93 ../includes/admin/tools.php:107
+msgid "Delete Calculated Ratings"
+msgstr ""
+
+#: ../includes/admin/tools.php:97
+msgid ""
+"Rating are calculated on page load if necessary and then stored in the "
+"database for performance."
+msgstr ""
+
+#: ../includes/admin/tools.php:125 ../includes/admin/tools.php:135
+msgid "Clean Database"
+msgstr ""
+
+#: ../includes/admin/tools.php:129
+msgid "Clean dastabase to remove any invalid or incomplete rating entries."
+msgstr ""
+
+#: ../includes/admin/tools.php:154 ../includes/admin/tools.php:236
+msgid "Migrate Rating Entries"
+msgstr ""
+
+#: ../includes/admin/tools.php:158
+msgid ""
+"Migrate rating entries from the free Multi Rating plugin to the Multi Rating "
+"Pro plugin."
+msgstr ""
+
+#: ../includes/admin/tools.php:168 ../includes/admin/tools.php:214
+msgid "Create New"
+msgstr ""
+
+#: ../includes/admin/tools.php:180
+msgid ""
+"You can migrate all entries to a new rating form or to an existing rating "
+"form."
+msgstr ""
+
+#: ../includes/admin/tools.php:197
+msgid "From"
+msgstr ""
+
+#: ../includes/admin/tools.php:198
+msgid "To"
+msgstr ""
+
+#: ../includes/admin/tools.php:227
+msgid ""
+"Map rating items. You may need to create new rating items beforehand if "
+"needed."
+msgstr ""
+
+#: ../includes/admin/tools.php:253
+msgid "Export Rating Entries"
+msgstr ""
+
+#: ../includes/admin/tools.php:256
+msgid "Download a CSV of rating entries."
+msgstr ""
+
+#: ../includes/admin/tools.php:271
+msgid "Approved ratings only"
+msgstr ""
+
+#: ../includes/admin/tools.php:275
+msgid "Ratings with comments only"
+msgstr ""
+
+#: ../includes/admin/tools.php:279
+msgid "Include rating items"
+msgstr ""
+
+#: ../includes/admin/tools.php:283
+msgid "Include custom fields"
+msgstr ""
+
+#: ../includes/admin/tools.php:289
+msgid "Generate CSV"
+msgstr ""
+
+#: ../includes/admin/tools.php:412
+msgid "Entry Id"
+msgstr ""
+
+#: ../includes/admin/tools.php:413
+msgid "Entry Date"
+msgstr ""
+
+#: ../includes/admin/tools.php:414
+msgid "Entry Status"
+msgstr ""
+
+#: ../includes/admin/tools.php:415
+msgid "Post Id"
+msgstr ""
+
+#: ../includes/admin/tools.php:416
+msgid "Post Title"
+msgstr ""
+
+#: ../includes/admin/tools.php:417
+msgid "Rating Form ID"
+msgstr ""
+
+#: ../includes/admin/tools.php:418
+msgid "Rating Form Name"
+msgstr ""
+
+#: ../includes/admin/tools.php:419
+msgid "Score Rating Result"
+msgstr ""
+
+#: ../includes/admin/tools.php:420
+msgid "Adjusted Score Rating Result"
+msgstr ""
+
+#: ../includes/admin/tools.php:421
+msgid "Total Max Option Value"
+msgstr ""
+
+#: ../includes/admin/tools.php:422
+msgid "Percentage Rating Result"
+msgstr ""
+
+#: ../includes/admin/tools.php:423
+msgid "Adjusted Percentage Rating Result"
+msgstr ""
+
+#: ../includes/admin/tools.php:424
+msgid "Star Rating Result"
+msgstr ""
+
+#: ../includes/admin/tools.php:425
+msgid "Adjusted Star Rating Result"
+msgstr ""
+
+#: ../includes/admin/tools.php:426
+msgid "User Id"
+msgstr ""
+
+#: ../includes/admin/tools.php:427
+msgid "Username"
+msgstr ""
+
+#: ../includes/admin/tools.php:429
+msgid "Comment ID"
+msgstr ""
+
+#: ../includes/admin/tools.php:598
+msgid "Database entries deleted successfully."
+msgstr ""
+
+#: ../includes/admin/tools.php:601
+msgid "No entries found."
+msgstr ""
+
+#: ../includes/admin/tools.php:618
+#, php-format
+msgid "Database cleaned successfully. %d rows deleted."
+msgstr ""
+
+#: ../includes/admin/tools.php:620
+msgid "Database is clean. No rows deleted."
+msgstr ""
+
+#: ../includes/admin/tools.php:682
+msgid "Database refreshed successfully."
+msgstr ""
+
+#: ../includes/admin/tools.php:792
+msgid "Rating entries imported successfully."
+msgstr ""
+
+#: ../includes/admin/upgrade-functions.php:428
+msgid "Post Filter"
+msgstr ""
+
+#: ../includes/admin/upgrade-functions.php:445
+msgid "Category Filter"
+msgstr ""
+
+#: ../includes/admin/upgrade-functions.php:462
+msgid "Page URL Filter"
+msgstr ""
+
+#: ../includes/class-comments.php:173 ../includes/class-comments.php:332
+#: ../templates/rating-form.php:24
+msgid "Enter title..."
+msgstr ""
+
+#: ../includes/class-rating-form.php:204
+msgid ""
+"You cannot delete a rating you did not submit or the rating may already be "
+"deleted."
+msgstr ""
+
+#: ../includes/class-rest-api-custom-fields.php:76
+msgid "No custom fields"
+msgstr ""
+
+#: ../includes/class-rest-api-rating-entries.php:149
+msgid "Invalid rating entry id"
+msgstr ""
+
+#: ../includes/class-settings.php:88 ../includes/class-settings.php:95
+msgid "Hello,"
+msgstr ""
+
+#: ../includes/class-settings.php:89
+msgid ""
+"A new rating #{rating_entry_id} by \"{display_name}\" has been approved."
+msgstr ""
+
+#: ../includes/class-settings.php:90 ../includes/class-settings.php:97
+msgid "Date: {date}"
+msgstr ""
+
+#: ../includes/class-settings.php:91 ../includes/class-settings.php:98
+msgid "{rating_details}"
+msgstr ""
+
+#: ../includes/class-settings.php:92 ../includes/class-settings.php:100
+msgid "Thank you."
+msgstr ""
+
+#: ../includes/class-settings.php:96
+msgid ""
+"A new rating #{rating_entry_id} by \"{display_name}\" requires moderation."
+msgstr ""
+
+#: ../includes/class-settings.php:99
+msgid "{rating_moderation_link}"
+msgstr ""
+
+#: ../includes/class-settings.php:110 ../includes/class-settings.php:111
+msgid "Rating Approved"
+msgstr ""
+
+#: ../includes/class-settings.php:118 ../includes/class-settings.php:119
+msgid "Rating Moderation"
+msgstr ""
+
+#: ../includes/class-settings.php:142
+msgid "Please rate this"
+msgstr ""
+
+#: ../includes/class-settings.php:143 ../multi-rating-pro.php:648
+msgid "Ratings"
+msgstr ""
+
+#: ../includes/class-settings.php:144
+msgid "Your Ratings"
+msgstr ""
+
+#: ../includes/class-settings.php:145
+msgid "Ratings Dashboard"
+msgstr ""
+
+#: ../includes/class-settings.php:148
+msgid "Submit Rating"
+msgstr ""
+
+#: ../includes/class-settings.php:149
+msgid "Update Rating"
+msgstr ""
+
+#: ../includes/class-settings.php:151
+msgid "Category"
+msgstr ""
+
+#: ../includes/class-settings.php:154
+msgid "You cannot submit a rating for the same post multiple times."
+msgstr ""
+
+#: ../includes/class-settings.php:155
+msgid "No ratings yet."
+msgstr ""
+
+#: ../includes/class-settings.php:156
+msgid "You must be logged in to submit a rating."
+msgstr ""
+
+#: ../includes/class-settings.php:157
+msgid "Field is required."
+msgstr ""
+
+#: ../includes/class-settings.php:158
+msgid "Your rating is awaiting moderation."
+msgstr ""
+
+#: ../includes/class-settings.php:159
+msgid "You have already submitted this rating form."
+msgstr ""
+
+#: ../includes/class-settings.php:160
+msgid "Rating submitted successfully."
+msgstr ""
+
+#: ../includes/class-settings.php:161
+msgid "Rating updated successfully."
+msgstr ""
+
+#: ../includes/class-settings.php:162
+msgid "Rating deleted successfully."
+msgstr ""
+
+#: ../includes/class-settings.php:163
+msgid "You are not allowed to submit a rating."
+msgstr ""
+
+#: ../includes/class-settings.php:206
+msgid "Rating Approved Email"
+msgstr ""
+
+#: ../includes/class-settings.php:207
+msgid "Rating Moderation Email"
+msgstr ""
+
+#: ../includes/class-settings.php:211 ../includes/class-settings.php:291
+msgid "Enable Notification"
+msgstr ""
+
+#: ../includes/class-settings.php:218
+msgid ""
+"Check this box if you want to enable rating approved e-mail notifications."
+msgstr ""
+
+#: ../includes/class-settings.php:222
+msgid "To Emails"
+msgstr ""
+
+#: ../includes/class-settings.php:228 ../includes/class-settings.php:308
+msgid "From Name"
+msgstr ""
+
+#: ../includes/class-settings.php:235
+msgid "The name rating approved notifications are said to come from."
+msgstr ""
+
+#: ../includes/class-settings.php:239 ../includes/class-settings.php:319
+msgid "From Email"
+msgstr ""
+
+#: ../includes/class-settings.php:246
+msgid "Email to send rating approved notifications from."
+msgstr ""
+
+#: ../includes/class-settings.php:250 ../includes/class-settings.php:330
+msgid "Email Subject"
+msgstr ""
+
+#: ../includes/class-settings.php:257
+msgid "Enter the subject line for the rating approved notification email"
+msgstr ""
+
+#: ../includes/class-settings.php:261 ../includes/class-settings.php:341
+msgid "Email Heading"
+msgstr ""
+
+#: ../includes/class-settings.php:268
+msgid "Enter the heading for the rating approved notification email"
+msgstr ""
+
+#: ../includes/class-settings.php:272 ../includes/class-settings.php:352
+msgid "Email Template"
+msgstr ""
+
+#: ../includes/class-settings.php:279
+msgid ""
+"Enter the email that is sent whenever a rating is approved (manually or "
+"automatically). HTML is accepted. Available template tags:<br /"
+">{display_name} - The user's display name<br />{username} - The user's "
+"username on the site<br />{user_email} - The user's email address<br /"
+">{site_name} - Your site name<br />{post_permalink} - Permalink to post with "
+"name<br />{rating_entry_id} - The unique ID number for this rating entry<br /"
+">{rating_details} - The rating details including title and comment<br /"
+">{date} - The date of the rating entry"
+msgstr ""
+
+#: ../includes/class-settings.php:298
+msgid ""
+"Check this box if you want to enable rating moderation e-mail notifications."
+msgstr ""
+
+#: ../includes/class-settings.php:315
+msgid "The name rating moderation notifications are said to come from."
+msgstr ""
+
+#: ../includes/class-settings.php:326
+msgid "Email to send rating assignment moderation notifications from."
+msgstr ""
+
+#: ../includes/class-settings.php:337
+msgid "Enter the subject line for the rating moderation notification email"
+msgstr ""
+
+#: ../includes/class-settings.php:348
+msgid "Enter the heading for the rating moderation notification email"
+msgstr ""
+
+#: ../includes/class-settings.php:359
+msgid ""
+"Enter the email that is sent to a moderator to notify them a new rating "
+"requires approval. HTML is accepted. Available template tags:<br /"
+">{display_name} - The user's display name<br />{username} - The user's "
+"username on the site<br />{user_email} - The user's email address<br /"
+">{site_name} - Your site name<br />{post_permalink} - Permalink to post with "
+"name<br />{rating_entry_id} - The unique ID number for this rating entry<br /"
+">{rating_details} - The rating details including title and comment<br /"
+">{date} - The date of the rating entry<br />{rating_moderation_link} - Link "
+"to rating entries page{edit_rating_link} - Link to edit rating page"
+msgstr ""
+
+#: ../includes/class-settings.php:389
+msgid "Who should receive a notification whenever a rating is approved?"
+msgstr ""
+
+#: ../includes/class-settings.php:390
+msgid "Notify the post author"
+msgstr ""
+
+#: ../includes/class-settings.php:391
+msgid "Notify the user who submitted the rating (if possible)"
+msgstr ""
+
+#: ../includes/class-settings.php:393 ../includes/class-settings.php:405
+msgid "Enter email address(es), one per line."
+msgstr ""
+
+#: ../includes/class-settings.php:403
+msgid ""
+"Who should receive a notification whenever a new rating is awating "
+"moderation?"
+msgstr ""
+
+#: ../includes/class-settings.php:472
+msgid "Duplicate Check Method"
+msgstr ""
+
+#: ../includes/class-settings.php:485
+msgid "Check this box if you want to allow anonymous users to submit ratings."
+msgstr ""
+
+#: ../includes/class-settings.php:489
+msgid "Allow Update Ratings"
+msgstr ""
+
+#: ../includes/class-settings.php:496
+msgid ""
+"Check this box if you want to allow logged in users to update or delete "
+"their own ratings."
+msgstr ""
+
+#: ../includes/class-settings.php:500
+msgid "Auto Approve Ratings"
+msgstr ""
+
+#: ../includes/class-settings.php:507
+msgid "Check this box if you want to enable automatic approval of ratings."
+msgstr ""
+
+#: ../includes/class-settings.php:511
+msgid "Add Structured Data"
+msgstr ""
+
+#: ../includes/class-settings.php:521
+msgid "Default Rating Result Type"
+msgstr ""
+
+#: ../includes/class-settings.php:528
+msgid "Choose a default rating result type."
+msgstr ""
+
+#: ../includes/class-settings.php:537
+msgid "Star Ratings Out Of"
+msgstr ""
+
+#: ../includes/class-settings.php:544
+msgid ""
+"Set the default out of number for star ratings (e.g. out of 5). You will "
+"need refresh the database cache to ensure ratings are recalculated."
+msgstr ""
+
+#: ../includes/class-settings.php:551
+msgid "Result Decimal Places"
+msgstr ""
+
+#: ../includes/class-settings.php:558
+msgid "Set the maximum number of decimal places for rating results. "
+msgstr ""
+
+#: ../includes/class-settings.php:566
+msgid "Keep Trailing Zeros"
+msgstr ""
+
+#: ../includes/class-settings.php:573
+msgid ""
+"Check this box if you want to keep any trailing zeros for star rating and "
+"score result types."
+msgstr ""
+
+#: ../includes/class-settings.php:577 ../includes/class-settings.php:951
+msgid "Rating Algorithm"
+msgstr ""
+
+#: ../includes/class-settings.php:583 ../includes/class-settings.php:957
+msgid "Sort WP Query"
+msgstr ""
+
+#: ../includes/class-settings.php:590 ../includes/class-settings.php:964
+msgid ""
+"Check this box if you want to enable sorting the main query by highest rated "
+"posts. Sticky posts will still be on top."
+msgstr ""
+
+#: ../includes/class-settings.php:605
+msgid "Hide Rating Form Submit"
+msgstr ""
+
+#: ../includes/class-settings.php:612 ../includes/class-settings.php:986
+msgid "Check this box if you want to hide the rating form on submit."
+msgstr ""
+
+#: ../includes/class-settings.php:616 ../includes/class-settings.php:990
+msgid "Hide Post Meta Box"
+msgstr ""
+
+#: ../includes/class-settings.php:623 ../includes/class-settings.php:997
+msgid "Check this box if you want to hide the post meta box by default."
+msgstr ""
+
+#: ../includes/class-settings.php:627 ../includes/class-settings.php:1001
+msgid "Disallowed User Roles"
+msgstr ""
+
+#: ../includes/class-settings.php:633 ../includes/class-settings.php:1007
+msgid "Template Strip Newlines"
+msgstr ""
+
+#: ../includes/class-settings.php:640 ../includes/class-settings.php:1014
+#, php-format
+msgid ""
+"Some plugins convert newlines to HTML paragraphs similar to <a href=\"%s"
+"\">wpautop</a> (e.g. Visual Composer). Check this box if you want to prevent "
+"this from happening by stripping the newlines from the Multi Rating Pro "
+"templates."
+msgstr ""
+
+#: ../includes/class-settings.php:664
+msgid "Cookie"
+msgstr ""
+
+#: ../includes/class-settings.php:682
+msgid "Hours"
+msgstr ""
+
+#: ../includes/class-settings.php:683
+msgid ""
+"Choose a method to prevent ratings for the same post multiple times. This "
+"only applies for anonymous users."
+msgstr ""
+
+#: ../includes/class-settings.php:693
+msgid "Average"
+msgstr ""
+
+#: ../includes/class-settings.php:695
+msgid "Bayesian Average"
+msgstr ""
+
+#: ../includes/class-settings.php:723
+msgid "Set the default rating form for all posts."
+msgstr ""
+
+#: ../includes/class-settings.php:784 ../tests/test-filters.php:460
+#: ../tests/test-performance.php:335 ../tests/test-post-meta.php:170
+#: ../tests/test-rating-entry-result.php:445
+#: ../tests/test-rating-item-result.php:306 ../tests/test-rating-item.php:181
+#: ../tests/test-rating-result.php:1608
+msgid "Default rating form"
+msgstr ""
+
+#: ../includes/class-settings.php:794
+msgid "0=No stars,1=1 star,2=2 stars,3=3 stars,4=4 stars,5=5 stars"
+msgstr ""
+
+#: ../includes/class-settings.php:838
+msgid ""
+"Adds support for rich snippets with aggregate ratings for posts in search "
+"engine results pages (SERP)."
+msgstr ""
+
+#: ../includes/class-settings.php:840
+msgid "Create new type"
+msgstr ""
+
+#: ../includes/class-settings.php:840
+msgid "Adds a new piece for the type configured on each post."
+msgstr ""
+
+#: ../includes/class-settings.php:842
+msgid "WordPress SEO plugin integration"
+msgstr ""
+
+#: ../includes/class-settings.php:842
+msgid "Adds to main entity where possible."
+msgstr ""
+
+#: ../includes/class-settings.php:844
+msgid "WooCommerce plugin integration"
+msgstr ""
+
+#: ../includes/class-settings.php:844
+msgid "Adds to existing Product type."
+msgstr ""
+
+#: ../includes/class-settings.php:863
+msgid "Save rating restriction hours must be numeric."
+msgstr ""
+
+#: ../includes/class-settings.php:865
+msgid "Save rating restriction hours must be greater than 0."
+msgstr ""
+
+#: ../includes/class-settings.php:922
+msgid "Star rating out must be greater than 0."
+msgstr ""
+
+#: ../includes/class-settings.php:927
+msgid ""
+"Rating result decimal places must be greater than 0 and less than or equal "
+"to 3."
+msgstr ""
+
+#: ../includes/class-settings.php:979
+msgid "Hide Rating Form on Submit"
+msgstr ""
+
+#: ../includes/class-settings.php:1029
+msgid "Disable Custom Text"
+msgstr ""
+
+#: ../includes/class-settings.php:1036
+msgid ""
+"Check this box to disable the custom text settings. This will allow language "
+"translation of the default source text."
+msgstr ""
+
+#: ../includes/class-settings.php:1121
+msgid "Comment Form"
+msgstr ""
+
+#: ../includes/class-settings.php:1122
+msgid "Comment Text"
+msgstr ""
+
+#: ../includes/class-settings.php:1146
+msgid ""
+"Enable post types for auto placement of the rating form and rating results."
+msgstr ""
+
+#: ../includes/class-settings.php:1158
+msgid ""
+"Default rating form position on a post. You can integrate ratings in the "
+"WordPress comment form."
+msgstr ""
+
+#: ../includes/class-settings.php:1175
+msgid "Default rating results position on a post."
+msgstr ""
+
+#: ../includes/class-settings.php:1186
+msgid "Exclude Home Page"
+msgstr ""
+
+#: ../includes/class-settings.php:1193
+#, php-format
+msgid ""
+"Check this box if you want to disable auto placement on the home page. See "
+"%s function."
+msgstr ""
+
+#: ../includes/class-settings.php:1197
+msgid "Exclude Archive Pages"
+msgstr ""
+
+#: ../includes/class-settings.php:1204
+#, php-format
+msgid ""
+"Check this box if you want to disable auto placement on archive pages. An "
+"archive page includes a Category, Tag, Author or a Date based pages. See %s "
+"function."
+msgstr ""
+
+#: ../includes/class-settings.php:1209
+msgid "Exclude Search Results"
+msgstr ""
+
+#: ../includes/class-settings.php:1216
+#, php-format
+msgid ""
+"Check this box if you want to disable auto placement on search results. See "
+"%s function."
+msgstr ""
+
+#: ../includes/class-settings.php:1220
+msgid "Optional Ratings"
+msgstr ""
+
+#: ../includes/class-settings.php:1227
+msgid ""
+"Check this box if you want to make ratings optional in the comment form."
+msgstr ""
+
+#: ../includes/class-settings.php:1231
+msgid "Include Rating Default"
+msgstr ""
+
+#: ../includes/class-settings.php:1238
+msgid ""
+"Check this box if you want to default the include rating checkbox in the "
+"comment form to checked."
+msgstr ""
+
+#: ../includes/class-settings.php:1249
+msgid ""
+"Check this box if you want to show the overall rating in the comment text."
+msgstr ""
+
+#: ../includes/class-settings.php:1260
+msgid "Check this box if you want to show the review title."
+msgstr ""
+
+#: ../includes/class-settings.php:1271
+msgid "Check this box if you want to show rating items in the comment text."
+msgstr ""
+
+#: ../includes/class-settings.php:1282
+msgid "Check this box if you want to show custom fields comment text."
+msgstr ""
+
+#: ../includes/class-settings.php:1304
+#, php-format
+msgid "WordPress comment form settings. See %s function."
+msgstr ""
+
+#: ../includes/class-settings.php:1311
+#, php-format
+msgid ""
+"Settings to show ratings in the comment text if submitted via the WordPress "
+"comment form. See %s function."
+msgstr ""
+
+#: ../includes/class-settings.php:1388
+msgid "Custom Images"
+msgstr ""
+
+#: ../includes/class-settings.php:1392
+msgid "Font Awesome v5"
+msgstr ""
+
+#: ../includes/class-settings.php:1393
+msgid "Font Awesome v4"
+msgstr ""
+
+#: ../includes/class-settings.php:1394
+msgid "Font Awesome v3"
+msgstr ""
+
+#: ../includes/class-settings.php:1395
+msgid "WordPress Dashicons"
+msgstr ""
+
+#: ../includes/class-settings.php:1401
+msgid "Primary Color"
+msgstr ""
+
+#: ../includes/class-settings.php:1408
+msgid "Choose a color for selection."
+msgstr ""
+
+#: ../includes/class-settings.php:1412
+msgid "Secondary Color"
+msgstr ""
+
+#: ../includes/class-settings.php:1419
+msgid "Choose a color for on hover."
+msgstr ""
+
+#: ../includes/class-settings.php:1423
+msgid "Error Color"
+msgstr ""
+
+#: ../includes/class-settings.php:1430
+msgid "Choose a color to highlight errors."
+msgstr ""
+
+#: ../includes/class-settings.php:1434
+msgid "Icons"
+msgstr ""
+
+#: ../includes/class-settings.php:1446
+msgid "Load Icons"
+msgstr ""
+
+#: ../includes/class-settings.php:1453
+msgid ""
+"If your theme or another plugin is already loading these icons, you should "
+"uncheck this to avoid any conflicts."
+msgstr ""
+
+#: ../includes/class-settings.php:1457
+msgid "Disable Styles"
+msgstr ""
+
+#: ../includes/class-settings.php:1464
+msgid "Check this box to disable loading the plugin's CSS file."
+msgstr ""
+
+#: ../includes/class-settings.php:1468
+msgid "Enable Custom Images"
+msgstr ""
+
+#: ../includes/class-settings.php:1475
+msgid "Check this box if you want to enable custom images."
+msgstr ""
+
+#: ../includes/class-settings.php:1479
+msgid "Full Star Image"
+msgstr ""
+
+#: ../includes/class-settings.php:1492
+msgid "Half Star Image"
+msgstr ""
+
+#: ../includes/class-settings.php:1505
+msgid "Empty Star Image"
+msgstr ""
+
+#: ../includes/class-settings.php:1518
+msgid "Hover Star Image"
+msgstr ""
+
+#: ../includes/class-settings.php:1531
+msgid "Star Image Width"
+msgstr ""
+
+#: ../includes/class-settings.php:1538 ../includes/class-settings.php:1551
+msgid "pixels"
+msgstr ""
+
+#: ../includes/class-settings.php:1544
+msgid "Star Image Height"
+msgstr ""
+
+#: ../includes/class-settings.php:1576
+msgid ""
+"Valid mime types are image/jpeg, image/png, image/bmp, image/tiff and image/"
+"x-icon."
+msgstr ""
+
+#: ../includes/class-settings.php:1608
+msgid "Full star, half star and empty star custom images are required."
+msgstr ""
+
+#: ../includes/class-settings.php:1626
+msgid ""
+"Invalid image format. Valid mime types: image/jpeg, image/png, image/bmp, "
+"image/tiff and image/x-icon"
+msgstr ""
+
+#: ../includes/class-settings.php:1635
+msgid "Custom image height must be numeric."
+msgstr ""
+
+#: ../includes/class-settings.php:1637
+msgid "Custom image height cannot be less than 1 or greater than 128."
+msgstr ""
+
+#: ../includes/class-settings.php:1641
+msgid "Custom image width must be numeric."
+msgstr ""
+
+#: ../includes/class-settings.php:1643
+msgid "Custom image width cannot be less than 1 or greater than 128."
+msgstr ""
+
+#: ../includes/class-settings.php:1658
+msgid "Titles"
+msgstr ""
+
+#: ../includes/class-settings.php:1659
+msgid "Labels"
+msgstr ""
+
+#: ../includes/class-settings.php:1660
+msgid "Messages"
+msgstr ""
+
+#: ../includes/class-settings.php:1666
+msgid "Rating Form Title"
+msgstr ""
+
+#: ../includes/class-settings.php:1677
+msgid "Ratings List Title"
+msgstr ""
+
+#: ../includes/class-settings.php:1688
+msgid "Rating Entries List Title"
+msgstr ""
+
+#: ../includes/class-settings.php:1699
+msgid "User Ratings Title"
+msgstr ""
+
+#: ../includes/class-settings.php:1710
+msgid "User Ratings Dashboard Title"
+msgstr ""
+
+#: ../includes/class-settings.php:1754
+msgid "Filter Button Text"
+msgstr ""
+
+#: ../includes/class-settings.php:1765
+msgid "Filter Label Text"
+msgstr ""
+
+#: ../includes/class-settings.php:1776
+msgid "Field Required Error Message"
+msgstr ""
+
+#: ../includes/class-settings.php:1788
+msgid "Awaiting Moderation Information Message"
+msgstr ""
+
+#: ../includes/class-settings.php:1800
+msgid "Allow Anonymous Error Message"
+msgstr ""
+
+#: ../includes/class-settings.php:1812
+msgid "Duplicate Check Error Message"
+msgstr ""
+
+#: ../includes/class-settings.php:1824
+msgid "No Ratings Information Message"
+msgstr ""
+
+#: ../includes/class-settings.php:1836
+msgid "Existing Rating Message"
+msgstr ""
+
+#: ../includes/class-settings.php:1848
+msgid "Submit Rating Success Message"
+msgstr ""
+
+#: ../includes/class-settings.php:1860
+msgid "Update Rating Success Message"
+msgstr ""
+
+#: ../includes/class-settings.php:1872
+msgid "Delete Rating Success Message"
+msgstr ""
+
+#: ../includes/class-settings.php:1884
+msgid "Disallowed User Roles Submit Rating Error Message."
+msgstr ""
+
+#: ../includes/class-settings.php:1908
+msgid "Shortcode titles, widgets titles etc..."
+msgstr ""
+
+#: ../includes/class-settings.php:1915
+msgid "Buttons, field labels etc..."
+msgstr ""
+
+#: ../includes/class-settings.php:1922
+msgid "Validation error messages, information messages etc..."
+msgstr ""
+
+#: ../includes/class-settings.php:1960
+msgid "License Key"
+msgstr ""
+
+#: ../includes/class-settings.php:1967
+msgid "Enter your license key."
+msgstr ""
+
+#: ../includes/class-settings.php:2047 ../includes/class-settings.php:2094
+#: ../includes/class-settings.php:2183
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: ../includes/class-settings.php:2061
+#, php-format
+msgid "Your license key expired on %s."
+msgstr ""
+
+#: ../includes/class-settings.php:2068
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: ../includes/class-settings.php:2073
+msgid "Invalid license."
+msgstr ""
+
+#: ../includes/class-settings.php:2079
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#: ../includes/class-settings.php:2084
+#, php-format
+msgid "This appears to be an invalid license key for %s."
+msgstr ""
+
+#: ../includes/class-settings.php:2089
+msgid "Your license key has reached its activation limit."
+msgstr ""
+
+#: ../includes/class-settings.php:2248
+msgid "Upload"
+msgstr ""
+
+#: ../includes/class-settings.php:2392
+msgid "Active"
+msgstr ""
+
+#: ../includes/class-settings.php:2393
+msgid "Deactivate License"
+msgstr ""
+
+#: ../includes/class-settings.php:2397
+msgid "Activate License"
+msgstr ""
+
+#: ../includes/class-utils.php:59
+msgid "An error has occured. Post id does not exist."
+msgstr ""
+
+#: ../includes/class-utils.php:70
+msgid "An error has occured. Rating form id does not exist."
+msgstr ""
+
+#: ../includes/class-utils.php:102
+msgid "At least one rating item must be applicable."
+msgstr ""
+
+#: ../includes/class-utils.php:116
+#, php-format
+msgid "Field cannot be greater than %s characters."
+msgstr ""
+
+#: ../includes/class-utils.php:149
+msgid "Title cannot be greater than 255 characters."
+msgstr ""
+
+#: ../includes/class-utils.php:172
+msgid "Name cannot be greater than 100 characters."
+msgstr ""
+
+#: ../includes/class-utils.php:194
+msgid "E-mail cannot be greater than 255 characters."
+msgstr ""
+
+#: ../includes/class-utils.php:204
+msgid "E-mail is invalid."
+msgstr ""
+
+#: ../includes/class-utils.php:226
+msgid "Comments cannot be greater than 2000 characters."
+msgstr ""
+
+#: ../includes/class-utils.php:281
+msgid "Invalid entry date"
+msgstr ""
+
+#: ../includes/class-utils.php:298
+msgid ""
+"An error has occured. Unable to match rating entry id with rating form id, "
+"post id and user id."
+msgstr ""
+
+#: ../includes/class-utils.php:310
+msgid "You are not allowed to update or delete ratings."
+msgstr ""
+
+#: ../includes/misc-functions.php:17
+#, php-format
+msgid ""
+"<i>Thank you for using <a href=\"%1$s\" target=\"_blank\">Multi Rating Pro</"
+"a>!</i>"
+msgstr ""
+
+#: ../includes/misc-functions.php:387
+msgid "Show more"
+msgstr ""
+
+#: ../includes/misc-functions.php:483
+msgid "All posts / pages"
+msgstr ""
+
+#: ../includes/misc-functions.php:523
+msgid "All rating forms"
+msgstr ""
+
+#: ../includes/widgets.php:21
+msgid "Displays a list of overall rating results for posts."
+msgstr ""
+
+#: ../includes/widgets.php:249 ../includes/widgets.php:568
+#: ../includes/widgets.php:1408
+msgid "Filter Label"
+msgstr ""
+
+#: ../includes/widgets.php:261 ../includes/widgets.php:585
+msgid "Image Size"
+msgstr ""
+
+#: ../includes/widgets.php:277 ../includes/widgets.php:601
+#: ../includes/widgets.php:859 ../includes/widgets.php:1009
+#: ../includes/widgets.php:1424
+msgid "Header"
+msgstr ""
+
+#: ../includes/widgets.php:330
+msgid "User Rating Results List"
+msgstr ""
+
+#: ../includes/widgets.php:333
+msgid ""
+"Displays a list of overall rating results for the current logged in user."
+msgstr ""
+
+#: ../includes/widgets.php:625
+msgid "Latest Entry Date"
+msgstr ""
+
+#: ../includes/widgets.php:657
+msgid "Displays the overall rating result for the current post."
+msgstr ""
+
+#: ../includes/widgets.php:737 ../includes/widgets.php:875
+#: ../includes/widgets.php:1040
+#, php-format
+msgid ""
+"Note: Widget will only display in templates for a single post or page. See "
+"<a href=\"%s\">is_single()</a>."
+msgstr ""
+
+#: ../includes/widgets.php:759
+msgid "Displays a rating form."
+msgstr ""
+
+#: ../includes/widgets.php:897
+msgid ""
+"Displays a breakdown of overall rating results per rating item for the "
+"current post."
+msgstr ""
+
+#: ../includes/widgets.php:1061
+msgid "Rating Entries List"
+msgstr ""
+
+#: ../includes/widgets.php:1064
+msgid ""
+"Displays a list of rating entries and their details (e.g. recent reviews)."
+msgstr ""
+
+#: ../includes/widgets.php:1486
+msgid "Show Permalink"
+msgstr ""
+
+#: ../includes/widgets.php:1490
+msgid "Current User"
+msgstr ""
+
+#: ../includes/widgets.php:1494
+msgid "Current Post"
+msgstr ""
+
+#: ../multi-rating-pro.php:664
+msgid "Settings"
+msgstr ""
+
+#: ../multi-rating-pro.php:668
+msgid "About"
+msgstr ""
+
+#: ../multi-rating-pro.php:878
+msgid "Are you sure you want to permanently delete ratings?"
+msgstr ""
+
+#: ../multi-rating-pro.php:879
+msgid "Are you sure you want to import ratings?"
+msgstr ""
+
+#: ../templates/comment-form-include-rating.php:8
+msgid "Include rating"
+msgstr ""
+
+#: ../templates/notification-rating-details.php:10
+msgid "Title: "
+msgstr ""
+
+#: ../templates/notification-rating-details.php:17
+msgid "Comment: "
+msgstr ""
+
+#: ../templates/notification-rating-details.php:23
+msgid "Overall Rating: "
+msgstr ""
+
+#: ../templates/rating-entries-feed.php:90
+msgid " star"
+msgstr ""
+
+#: ../templates/rating-entries-feed.php:94
+msgid " rating given by "
+msgstr ""
+
+#: ../templates/rating-entries-feed.php:104
+msgid " on post "
+msgstr ""
+
+#: ../templates/rating-entry-details-list.php:108
+#: ../templates/rating-entry-details-list.php:117
+msgid "Load More"
+msgstr ""
+
+#: ../templates/rating-form.php:79
+msgid "Enter your name..."
+msgstr ""
+
+#: ../templates/rating-form.php:90
+msgid "Enter your email address..."
+msgstr ""
+
+#: ../templates/rating-form.php:100
+msgid "Comments"
+msgstr ""
+
+#: ../templates/rating-form.php:101
+msgid "Enter comments..."
+msgstr ""
+
+#: ../templates/user-ratings-dashboard.php:14
+msgid "Please login to view your ratings."
+msgstr ""
+
+#: ../templates/user-ratings-dashboard.php:57
+msgid "Average Rating"
+msgstr ""
+
+#: ../templates/user-ratings-dashboard.php:76
+msgid "Ratings Count"
+msgstr ""
+
+#: ../templates/user-ratings-dashboard.php:87
+msgid "pending"
+msgstr ""
+
+#: ../templates/user-ratings-dashboard.php:95
+msgid "Comments Count"
+msgstr ""
+
+#: ../templates/user-ratings-dashboard.php:105
+msgid "Most Recent Entry"
+msgstr ""
+
+#: ../templates/user-ratings-dashboard.php:122
+msgid "Rating"
+msgstr ""
+
+#: ../templates/user-ratings-dashboard.php:140
+msgid "Actions"
+msgstr ""
+
+#: ../templates/user-ratings-dashboard.php:238
+msgid "Cancel"
+msgstr ""
+
+#: ../tests/test-filters.php:411
+msgid "Sample Filter 2"
+msgstr ""
+
+#: ../tests/test-filters.php:424
+msgid "Sample Filter 3"
+msgstr ""
+
+#: ../tests/test-filters.php:437
+msgid "Sample Filter 4"
+msgstr ""

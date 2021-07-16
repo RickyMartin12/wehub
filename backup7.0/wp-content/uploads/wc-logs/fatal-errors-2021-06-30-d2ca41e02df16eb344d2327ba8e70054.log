@@ -1,0 +1,18 @@
+2021-06-30T18:18:41+00:00 CRITICAL require(): Failed opening required '/home/wehubpt/public_html/wp-content/plugins/buddyboss-platform/bp-activity/classes/class-bp-rest-activity-details-endpoint.php' (include_path='.:/opt/alt/php74/usr/share/pear') em /home/wehubpt/public_html/wp-content/plugins/buddyboss-platform/class-buddypress.php na linha 800
+
+2021-06-30T18:46:42+00:00 CRITICAL require(): Failed opening required '/home/wehubpt/public_html/wp-content/plugins/buddyboss-platform/bp-groups/classes/class-bp-rest-groups-details-endpoint.php' (include_path='.:/opt/alt/php74/usr/share/pear') em /home/wehubpt/public_html/wp-content/plugins/buddyboss-platform/class-buddypress.php na linha 800
+
+2021-06-30T18:48:44+00:00 CRITICAL require_once(): Failed opening required '/home/wehubpt/public_html/wp-content/plugins/buddyboss-platform/bp-integrations/learndash/classes/class-bp-rest-learndash-courses-endpoint.php' (include_path='.:/opt/alt/php74/usr/share/pear') em /home/wehubpt/public_html/wp-content/plugins/buddyboss-platform/bp-integrations/learndash/bp-learndash-integration.php na linha 77
+
+2021-06-30T18:48:44+00:00 CRITICAL require(): Failed opening required '/home/wehubpt/public_html/wp-content/plugins/buddyboss-platform/bp-document/classes/class-bp-rest-document-details-endpoint.php' (include_path='.:/opt/alt/php74/usr/share/pear') em /home/wehubpt/public_html/wp-content/plugins/buddyboss-platform/class-buddypress.php na linha 800
+
+2021-06-30T18:50:10+00:00 CRITICAL require(): Failed opening required '/home/wehubpt/public_html/wp-content/plugins/buddyboss-platform/bp-core/classes/class-bp-rest-mention-endpoint.php' (include_path='.:/opt/alt/php74/usr/share/pear') em /home/wehubpt/public_html/wp-content/plugins/buddyboss-platform/class-buddypress.php na linha 800
+
+2021-06-30T18:50:10+00:00 CRITICAL require(): Failed opening required '/home/wehubpt/public_html/wp-content/plugins/buddyboss-platform/bp-groups/classes/class-bp-rest-group-membership-endpoint.php' (include_path='.:/opt/alt/php74/usr/share/pear') em /home/wehubpt/public_html/wp-content/plugins/buddyboss-platform/class-buddypress.php na linha 800
+
+2021-06-30T19:14:04+00:00 CRITICAL require(): Failed opening required '/home/wehubpt/public_html/wp-content/plugins/buddyboss-platform/bp-settings/classes/class-bp-rest-account-settings-options-endpoint.php' (include_path='.:/opt/alt/php74/usr/share/pear') em /home/wehubpt/public_html/wp-content/plugins/buddyboss-platform/class-buddypress.php na linha 800
+
+2021-06-30T19:14:08+00:00 CRITICAL require(): Failed opening required '/home/wehubpt/public_html/wp-content/plugins/buddyboss-platform/bp-activity/classes/class-bp-rest-activity-comment-endpoint.php' (include_path='.:/opt/alt/php74/usr/share/pear') em /home/wehubpt/public_html/wp-content/plugins/buddyboss-platform/class-buddypress.php na linha 800
+
+2021-06-30T19:16:11+00:00 CRITICAL require(): Failed opening required '/home/wehubpt/public_html/wp-content/plugins/buddyboss-platform/bp-forums/classes/class-bp-rest-topics-actions-endpoint.php' (include_path='.:/opt/alt/php74/usr/share/pear') em /home/wehubpt/public_html/wp-content/plugins/buddyboss-platform/class-buddypress.php na linha 800
+
