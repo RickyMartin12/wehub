@@ -66,7 +66,15 @@ password: peleira2014
 
 ##### Dashboard Artigos & Temas (Aprovado / Reprovado)
 
+<url_site_backup7.0>/wp-admin/admin.php?page=dashboard
+
 ![dashboard](https://user-images.githubusercontent.com/9846274/204002645-1afbe70e-99a8-4259-b37f-72101d87a5bf.png)
+
+##### Criar um novo Artigo
+
+<url_site_backup7.0>/wp-admin/admin.php?page=novo-post
+
+
 
 #### Buddyboss
 
