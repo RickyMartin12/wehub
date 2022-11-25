@@ -10,6 +10,11 @@ O Ficheiro da base de dados encontra-se na paste Database/globaldea.sql
 
 https://meocloud.pt/link/5f18ba88-63ed-46d5-b6db-b2375abe6993/globaldea.sql/
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# WEBSITE - FRONTEND
+
+## Wehub (Options do plugin buddyboss) - rede social do wordpress
 
 ### Perfil - Utilizador - Buddyboss
 
@@ -26,3 +31,18 @@ https://meocloud.pt/link/5f18ba88-63ed-46d5-b6db-b2375abe6993/globaldea.sql/
 ![posts_search_2](https://user-images.githubusercontent.com/9846274/203991479-62d60f85-28df-4523-a117-0d7a024e4a01.png)
 
 ![posts_search](https://user-images.githubusercontent.com/9846274/203991108-b2974026-5198-497d-bd7b-43e56251b91e.png)
+
+#### Pontuação dos Posts 
+
+![posts_search_3_rating](https://user-images.githubusercontent.com/9846274/203991895-068ee794-a45d-4f7d-926f-0915d84a0a41.png)
+
+#### Conteudo dos Posts - Pela Pontuacao
+
+![post_content](https://user-images.githubusercontent.com/9846274/203992330-0eb5f460-7bc4-4ae9-8ad5-094fc29a18da.png)
+
+#### Group Organization - (Grupos de Organizacao)
+
+![grups_organizacao](https://user-images.githubusercontent.com/9846274/203992674-52064640-94e1-4084-9af6-661a230814b3.png)
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
