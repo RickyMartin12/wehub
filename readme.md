@@ -2,8 +2,7 @@
 
 ## Projecto Link Actualizado
 
-
-https://meocloud.pt/link/81ffc254-4a6c-4120-a6a8-42306ee6c1be/backup7.0%20%283%29.zip/
+https://meocloud.pt/link/9758008b-7fab-4af4-b890-8959dc503a42/backup7.0.zip/
 
 ## Adicione o nome da base 'globaldea' no phpmyadmin
 
@@ -76,6 +75,10 @@ password: peleira2014
 <url_site_backup7.0>/wp-admin/admin.php?page=novo-post
 
 
+
+
+
+| ![noco_post](https://user-images.githubusercontent.com/9846274/204015371-daaf0848-83ad-433d-b4e7-de4ad2383267.png) | ![noco_post_2](https://user-images.githubusercontent.com/9846274/204015368-cc8ff5b5-a71f-43d5-985f-8420e7865e8b.png) |
 
 #### Buddyboss
 
