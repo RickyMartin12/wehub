@@ -46,3 +46,34 @@ https://meocloud.pt/link/5f18ba88-63ed-46d5-b6db-b2375abe6993/globaldea.sql/
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Pagina Administrativa 
+
+## Wehub do T5 Globaldea (criado) e outros plugins (buddyboss, capacibilities e outros)
+
+Vai a pagina wp-admin
+
+<url_site_backup7.0>/wp-admin
+
+username: admin
+password: peleira2014
+
+![admin_page](https://user-images.githubusercontent.com/9846274/203994876-ff5bfa03-dd2a-4dda-92f2-a2af6d24f41c.png)
+
+### Plugins
+
+#### T5 Globaldea
+
+#### Buddyboss
+
+#### Capabilities
+
+##### Tipo Utilizador: Administrator (Example)
+
+![capabilities_plugin](https://user-images.githubusercontent.com/9846274/203995667-baef2c77-d08c-4006-85fe-e705c24ceb67.png)
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
