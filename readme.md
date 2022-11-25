@@ -66,6 +66,20 @@ password: peleira2014
 
 #### Buddyboss
 
+<url_site_backup7.0>/wp-admin/admin.php?page=bp-components
+
+###### Plugin Inicial
+
+![buddyboss_plugin](https://user-images.githubusercontent.com/9846274/203996692-e9f01d69-4232-449c-a3e8-b7dd91511e45.png)
+
+###### Plugin Inicial - Temas
+
+![buddyboss_plugin_themes](https://user-images.githubusercontent.com/9846274/203996687-c0492afc-6039-4025-9956-843dc8211c00.png)
+
+###### Plugin Inicial - Licenca do Buddyboss
+
+![buddyboss_plugin_license_key](https://user-images.githubusercontent.com/9846274/203996684-aaf73352-2dca-43f6-a713-5a2eb37a70b4.png)
+
 #### Capabilities
 
 ##### Tipo Utilizador: Administrator (Example)
