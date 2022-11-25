@@ -82,12 +82,15 @@ password: peleira2014
 
 #### Capabilities
 
+<url_site_backup7.0>/wp-admin/admin.php?page=pp-capabilities
+
 ##### Tipo Utilizador: Administrator (Example)
 
 ![capabilities_plugin](https://user-images.githubusercontent.com/9846274/203995667-baef2c77-d08c-4006-85fe-e705c24ceb67.png)
 
+#### All-in-One WP Migration
 
-
+<url_site_backup7.0>/wp-admin/admin.php?page=ai1wm_export
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
