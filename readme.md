@@ -78,13 +78,13 @@ password: peleira2014
 
 
 
-| ![noco_post](https://user-images.githubusercontent.com/9846274/204015371-daaf0848-83ad-433d-b4e7-de4ad2383267.png) | ![noco_post_2](https://user-images.githubusercontent.com/9846274/204015368-cc8ff5b5-a71f-43d5-985f-8420e7865e8b.png) |
+|  |  |
 
 
-| Header 1  | Another header here | This is a long header |
-| --------  | ------------------- | --------------------- |
-| Some data | Some more data      | data                  | 
-| data      | Some long data here | more data             | 
+| Post 1  | Post 2 | 
+| --------  | ------------------- | 
+| ![noco_post](https://user-images.githubusercontent.com/9846274/204015371-daaf0848-83ad-433d-b4e7-de4ad2383267.png) | ![noco_post_2](https://user-images.githubusercontent.com/9846274/204015368-cc8ff5b5-a71f-43d5-985f-8420e7865e8b.png)     |
+| data      | Some long data here | 
 
 
 
