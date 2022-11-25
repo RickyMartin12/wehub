@@ -94,9 +94,16 @@ password: peleira2014
 
 ##### IMPORT
 
+![import](https://user-images.githubusercontent.com/9846274/204000097-72f4751b-ccc2-4bb8-b8f8-72349af8bb16.png)
+
 ##### EXPORT
 
+![export](https://user-images.githubusercontent.com/9846274/204000099-c8d84172-2bc4-4a54-aa63-a4c562105dcb.png)
+
 ##### Histórico de Backups
+
+![backups](https://user-images.githubusercontent.com/9846274/204000089-f4a56c8d-bebe-4e23-906e-0877215c4f4e.png)
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
