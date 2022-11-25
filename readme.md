@@ -2,7 +2,8 @@
 
 ## Projecto Link Actualizado
 
-https://meocloud.pt/link/9758008b-7fab-4af4-b890-8959dc503a42/backup7.0.zip/
+
+https://meocloud.pt/link/81ffc254-4a6c-4120-a6a8-42306ee6c1be/backup7.0%20%283%29.zip/
 
 ## Adicione o nome da base 'globaldea' no phpmyadmin
 
