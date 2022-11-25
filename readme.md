@@ -74,9 +74,9 @@ password: peleira2014
 
 <url_site_backup7.0>/wp-admin/admin.php?page=novo-post
 
-| Post 1  | Post 2 | 
-| --------  | ------------------- | 
-| ![noco_post](https://user-images.githubusercontent.com/9846274/204015371-daaf0848-83ad-433d-b4e7-de4ad2383267.png) | ![noco_post_2](https://user-images.githubusercontent.com/9846274/204015368-cc8ff5b5-a71f-43d5-985f-8420e7865e8b.png)     |
+![noco_post](https://user-images.githubusercontent.com/9846274/204015371-daaf0848-83ad-433d-b4e7-de4ad2383267.png) 
+
+![noco_post_2](https://user-images.githubusercontent.com/9846274/204015368-cc8ff5b5-a71f-43d5-985f-8420e7865e8b.png)
 
 
 #### Buddyboss
