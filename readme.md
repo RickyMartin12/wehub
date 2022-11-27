@@ -70,6 +70,10 @@ password: peleira2014
 
 ![dashboard](https://user-images.githubusercontent.com/9846274/204002645-1afbe70e-99a8-4259-b37f-72101d87a5bf.png)
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### Artigos
+
 ##### Criar um novo Artigo
 
 <url_site_backup7.0>/wp-admin/admin.php?page=novo-post
@@ -77,6 +81,22 @@ password: peleira2014
 ![noco_post](https://user-images.githubusercontent.com/9846274/204015371-daaf0848-83ad-433d-b4e7-de4ad2383267.png) 
 
 ![noco_post_2](https://user-images.githubusercontent.com/9846274/204015368-cc8ff5b5-a71f-43d5-985f-8420e7865e8b.png)
+
+##### Listar Posts (Artigos)
+
+![list_posts](https://user-images.githubusercontent.com/9846274/204017662-43ebc7e5-e33e-4e5c-8049-fb23d5b71f85.png)
+
+##### Adicionar commentario pelo post
+
+![add_coment](https://user-images.githubusercontent.com/9846274/204017652-e6cef1c6-f2c6-442e-a109-d0d630f5a9ee.png)
+
+##### Listar Comentarios do Artigo Seleccionado
+
+![list_comments_post](https://user-images.githubusercontent.com/9846274/204017655-16079a20-17d8-496d-aa7f-5d2046d8d101.png)
+
+#### Temas
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 #### Buddyboss
