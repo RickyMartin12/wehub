@@ -104,13 +104,23 @@ password: peleira2014
 
 ##### Listar Todos os Temas
 
+![listar_temas](https://user-images.githubusercontent.com/9846274/204345830-ad8084ee-79a9-45bc-9355-2c681003eb31.png)
+
 ##### Atribuir Tema a um dado artigo
+
+
 
 ##### Aprovar/Reprovar Tema
 
 ##### Editar Artigo a um dado Tema
 
 ##### Editar Tema
+
+![editar_tema](https://user-images.githubusercontent.com/9846274/204345915-9506143c-d2ca-49c2-8e53-0163d8984f5e.png)
+
+![editar_tema_2](https://user-images.githubusercontent.com/9846274/204345908-d1c1c4e5-2b2a-486a-b8d6-a962690000e2.png)
+
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
