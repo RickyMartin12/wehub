@@ -102,6 +102,16 @@ password: peleira2014
 
 ![sugerir_tema_2](https://user-images.githubusercontent.com/9846274/204330925-a0c2b44e-7171-41d9-a141-970319db6522.png)
 
+##### Listar Todos os Temas
+
+##### Atribuir Tema a um dado artigo
+
+##### Aprovar/Reprovar Tema
+
+##### Editar Artigo a um dado Tema
+
+##### Editar Tema
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
