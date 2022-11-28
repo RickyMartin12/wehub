@@ -106,6 +106,14 @@ password: peleira2014
 
 ![listar_temas](https://user-images.githubusercontent.com/9846274/204345830-ad8084ee-79a9-45bc-9355-2c681003eb31.png)
 
+##### Listar os Temas Disponiveis
+
+![temas_disponiveis_listar](https://user-images.githubusercontent.com/9846274/204346958-149e0f17-55c6-48fb-89ce-ae1ccc34dca0.png)
+
+##### Listar Os Temas criados pelo utilizador (normal)
+
+![listar_meus_temas](https://user-images.githubusercontent.com/9846274/204355515-5e142e39-5937-4aae-99d8-9b4789daed04.png)
+
 ##### Atribuir Tema a um dado artigo
 
 
