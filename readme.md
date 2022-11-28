@@ -96,6 +96,12 @@ password: peleira2014
 
 #### Temas
 
+##### Sugerir Tema
+
+![sugerir_tema](https://user-images.githubusercontent.com/9846274/204330930-6445b26e-495d-4d07-9dcb-92c38e31ac4c.png)
+
+![sugerir_tema_2](https://user-images.githubusercontent.com/9846274/204330925-a0c2b44e-7171-41d9-a141-970319db6522.png)
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
