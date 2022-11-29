@@ -126,11 +126,15 @@ password: peleira2014
 
 ##### Aprovar/Reprovar Tema
 
-
+![aprovar_reprovar_tema](https://user-images.githubusercontent.com/9846274/204514393-cb9d43b3-3706-4839-882a-2450e7478d5e.png)
 
 ##### Editar Artigo a um dado Tema
 
+![editar_artigo_tema](https://user-images.githubusercontent.com/9846274/204514731-b3375c6a-a4dd-4fcb-9fce-a02b1947a0da.png)
 
+![editar_artigo_tema_2](https://user-images.githubusercontent.com/9846274/204514730-588e1824-41cb-479d-a2aa-e61cebae0c27.png)
+
+![editar_artigo_tema_3](https://user-images.githubusercontent.com/9846274/204514726-9bc364aa-30d6-48c4-96e5-70abf7e88473.png)
 
 ##### Editar Tema
 
@@ -140,7 +144,13 @@ password: peleira2014
 
 ##### Assumir Tema
 
+![assumir_tema_admin](https://user-images.githubusercontent.com/9846274/204514603-aecb2a43-5bf9-4c57-9dc4-366c6808e200.png)
 
+![assumir_tema_admin_2](https://user-images.githubusercontent.com/9846274/204514599-92608f45-8bbd-4e7c-ac63-dee4f32d1362.png)
+
+![assumir_tema_admin_3](https://user-images.githubusercontent.com/9846274/204514596-853b474f-a772-4e88-b2e0-7180a93ed194.png)
+
+![assumir_tema_admin_4](https://user-images.githubusercontent.com/9846274/204514594-9b5d3da3-c624-4f74-b732-f897722ff05c.png)
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
