@@ -116,17 +116,30 @@ password: peleira2014
 
 ##### Atribuir Tema a um dado artigo
 
+![atribuir_tema](https://user-images.githubusercontent.com/9846274/204507040-d14a5b02-e7aa-4248-87a0-2cb3b9545b70.png)
 
+![atribuir_tema_2](https://user-images.githubusercontent.com/9846274/204507038-2bd5bfa8-00dc-43cc-b82b-f0a5a77846c7.png)
+
+![atribuir_tema_3](https://user-images.githubusercontent.com/9846274/204507036-55e6a81a-8ee0-43fb-9a07-6abc62e39fc1.png)
+
+![atribuir_tema_4](https://user-images.githubusercontent.com/9846274/204507029-dea6a400-6357-4233-b8cd-557c93590b47.png)
 
 ##### Aprovar/Reprovar Tema
 
+
+
 ##### Editar Artigo a um dado Tema
+
+
 
 ##### Editar Tema
 
 ![editar_tema](https://user-images.githubusercontent.com/9846274/204345915-9506143c-d2ca-49c2-8e53-0163d8984f5e.png)
 
 ![editar_tema_2](https://user-images.githubusercontent.com/9846274/204345908-d1c1c4e5-2b2a-486a-b8d6-a962690000e2.png)
+
+##### Assumir Tema
+
 
 
 
